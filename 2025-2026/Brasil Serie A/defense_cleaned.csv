@@ -1,0 +1,762 @@
+﻿Player,Nation,Pos,Squad,Age,Born,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,Int,Tkl+Int,Clr,Err
+Abner,BRA,DF,Juventude,20,2004,14.6,19,11,13,4,2,11,29,37.9,18,23,13,10,18,37,98,2
+Nicolás Acevedo,URU,MF,Bahia,25,1999,18.8,58,40,22,27,9,28,68,41.2,40,35,9,26,31,89,23,0
+Luciano Acosta,ARG,MF,Fluminense,30,1994,13.3,19,14,5,9,5,9,22,40.9,13,16,0,16,0,19,7,0
+Adriel,BRA,MF,Sport Recife,18,2006,1.6,4,3,2,2,0,3,3,100.0,0,2,0,2,1,5,4,0
+Adson,BRA,"FW,MF",Vasco da Gama,24,2000,2.3,6,4,4,1,1,0,0,,0,2,0,2,0,6,5,0
+Braian Aguirre,ARG,DF,Internacional,24,2000,26.5,69,43,29,31,9,47,73,64.4,26,27,9,18,31,100,98,3
+Carlos Alberto,BRA,"FW,MF",Sport Recife,22,2002,3.7,4,3,2,1,1,2,4,50.0,2,2,0,2,9,13,7,0
+Yuri Alberto,BRA,FW,Corinthians,23,2001,22.3,12,7,2,6,4,7,15,46.7,8,5,0,5,4,16,17,2
+José Aldo,BRA,MF,Mirassol,26,1998,15.2,35,24,19,12,4,20,31,64.5,11,19,1,18,27,62,28,1
+Alesson,BRA,FW,Mirassol,25,1999,16.2,26,13,6,13,7,12,37,32.4,25,23,0,23,6,32,10,0
+Caio Alexandre,BRA,MF,Bahia,25,1999,14.5,29,15,10,18,1,14,42,33.3,28,16,7,9,10,39,24,1
+Matheus Alexandre,BRA,DF,Sport Recife,25,1999,19.8,51,33,27,17,7,26,40,65.0,14,24,6,18,33,84,59,0
+Alexsander,BRA,MF,Atlético Mineiro,21,2003,9.2,36,23,14,16,6,18,29,62.1,11,7,0,7,13,49,3,0
+Alisson,BRA,MF,São Paulo,31,1993,21.8,31,20,11,18,2,22,51,43.1,29,18,8,10,13,44,32,2
+Allan,BRA,"MF,FW",Palmeiras,20,2004,10.2,28,18,17,8,3,16,34,47.1,18,14,5,9,8,36,18,2
+Allan,BRA,MF,Botafogo (RJ),34,1991,10.7,26,17,14,11,1,15,35,42.9,20,15,2,13,5,31,20,0
+Allan,BRA,MF,Flamengo,27,1997,7.6,6,4,2,4,0,2,2,100.0,0,8,4,4,9,15,9,0
+Allanzinho,BRA,"MF,FW",Fortaleza,24,2000,3.2,3,2,2,1,0,1,1,100.0,0,4,1,3,2,5,2,0
+Júnior Alonso,PAR,DF,Atlético Mineiro,31,1993,29.0,33,18,19,12,2,20,31,64.5,11,20,14,6,32,65,132,0
+Dyogo Alves,BRA,GK,Flamengo,21,2004,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Matheus Alves,BRA,"MF,FW",São Paulo,19,2005,4.1,9,4,6,3,0,4,7,57.1,3,2,0,2,3,12,3,0
+Francis Amuzu,BEL,"FW,MF",Grêmio,25,1999,12.7,10,8,6,1,3,3,3,100.0,0,4,1,3,0,10,8,0
+Felipe Anderson,BRA,"MF,FW",Palmeiras,31,1993,19.7,53,33,26,21,6,29,65,44.6,36,27,2,25,18,71,24,1
+Kervin Andrade,VEN,"FW,MF",Fortaleza,19,2005,1.8,4,4,2,1,1,1,1,100.0,0,2,0,2,1,5,0,0
+André,BRA,MF,Corinthians,18,2006,3.5,9,8,2,6,1,2,5,40.0,3,5,0,5,1,10,4,0
+José Andrés Martínez,VEN,MF,Corinthians,30,1994,15.5,27,20,12,11,4,19,34,55.9,15,10,2,8,14,41,19,2
+Wilker Ángel,VEN,DF,Juventude,31,1993,15.8,13,7,6,6,1,8,11,72.7,3,35,33,2,12,25,105,3
+Fabrizio Angileri,ARG,DF,Corinthians,30,1994,18.2,35,23,25,8,2,22,33,66.7,11,26,14,12,10,45,90,1
+Anthoni,BRA,GK,Internacional,23,2002,17.0,1,1,1,0,0,1,3,33.3,2,0,0,0,0,1,11,4
+Marcos Antônio,BRA,MF,São Paulo,24,2000,21.1,19,9,11,8,0,9,29,31.0,20,19,7,12,7,26,34,0
+Léo Aragão,BRA,GK,Cruzeiro,22,2002,3.7,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Guilherme Arana,BRA,DF,Atlético Mineiro,27,1997,19.4,22,17,11,11,0,8,16,50.0,8,17,7,10,17,39,45,2
+Willian Arão,BRA,MF,Santos,32,1992,8.7,11,6,5,5,1,6,20,30.0,14,9,0,9,17,28,40,1
+Luiz Araújo,BRA,"FW,MF",Flamengo,28,1996,19.6,49,36,15,26,8,20,33,60.6,13,15,0,15,8,57,11,0
+Matheus Araújo,BRA,"MF,FW",Ceará,22,2002,3.0,3,1,1,2,0,0,3,0.0,3,3,0,3,0,3,1,0
+Michel Araujo,URU,"MF,FW",Bahia,28,1996,9.5,32,20,11,15,6,16,29,55.2,13,5,2,3,7,39,19,1
+Alexander Aravena,CHI,"FW,MF",Grêmio,22,2002,6.5,7,4,3,3,1,2,4,50.0,2,6,1,5,0,7,5,0
+Robert Arboleda,ECU,DF,São Paulo,33,1991,22.9,34,21,26,8,0,17,24,70.8,7,43,29,14,17,51,154,1
+Lucas Arcanjo,BRA,GK,Vitória,26,1998,28.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,13,2
+Matias Arezo,URU,FW,Grêmio,22,2002,3.0,2,1,1,0,1,0,2,0.0,2,4,1,3,0,2,2,0
+Jhon Arias,COL,FW,Fluminense,27,1997,12.0,13,10,3,3,7,7,16,43.8,9,17,0,17,4,17,2,0
+Santiago Arias,COL,DF,Bahia,33,1992,15.8,20,15,10,8,2,10,20,50.0,10,10,6,4,18,38,50,2
+Keny Arroyo,ECU,FW,Cruzeiro,18,2006,7.2,7,6,2,4,1,5,10,50.0,5,6,1,5,4,11,7,0
+Arthur,BRA,FW,Sport Recife,21,2003,2.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,1
+Artur,BRA,"FW,MF",Botafogo (RJ),26,1998,21.3,15,12,4,7,4,9,25,36.0,16,16,0,16,11,26,11,0
+Rodrigo Atencio,ARG,"MF,FW",Sport Recife,22,2002,6.0,8,3,5,2,1,5,12,41.7,7,2,0,2,4,12,3,1
+Loide Augusto,ANG,"FW,MF",Vasco da Gama,24,2000,2.1,2,2,1,1,0,0,0,,0,2,0,2,1,3,1,0
+Leo Augusto Pereira,BRA,"FW,MF",Vitória,24,2000,1.8,3,3,0,3,0,1,3,33.3,2,0,0,0,1,4,0,0
+Leo Augusto Pereira,BRA,"FW,MF",Sport Recife,24,2000,12.3,17,10,6,8,3,8,17,47.1,9,8,0,8,3,20,10,0
+Renato Augusto,BRA,"MF,FW",Fluminense,36,1988,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Gastón Ávila,ARG,DF,Fortaleza,23,2001,25.8,62,42,37,22,3,44,72,61.1,28,32,25,7,25,87,120,1
+Aylon,BRA,"FW,MF",Ceará,32,1992,8.8,17,10,5,11,1,10,21,47.6,11,15,2,13,2,19,8,0
+Matheus Babi,BRA,FW,Juventude,27,1997,5.3,7,3,1,5,1,0,4,0.0,4,5,0,5,1,8,8,0
+Bahia,BRA,MF,Corinthians,19,2006,0.5,3,2,1,2,0,2,2,100.0,0,2,0,2,2,5,1,0
+Gabriel Bahia,BRA,DF,Botafogo (RJ),26,1998,2.6,4,2,2,2,0,4,4,100.0,0,2,2,0,2,6,16,1
+Matheus Bahia,BRA,DF,Ceará,25,1999,27.4,46,27,33,9,4,22,41,53.7,19,22,7,15,21,67,86,0
+Fabián Balbuena,PAR,DF,Grêmio,33,1991,2.5,3,2,3,0,0,1,3,33.3,2,0,0,0,4,7,24,0
+Gabriel Baralhas,BRA,MF,Vitória,26,1998,25.3,54,39,20,28,6,25,53,47.2,28,44,11,33,36,90,51,0
+Danilo Barbosa,BRA,"DF,MF",Botafogo (RJ),28,1996,0.4,1,1,1,0,0,1,1,100.0,0,1,1,0,1,2,2,0
+Diogo Barbosa,BRA,DF,Fortaleza,32,1992,13.8,31,18,19,11,1,22,38,57.9,16,13,2,11,11,42,61,0
+Gabriel Barbosa,BRA,"FW,MF",Cruzeiro,28,1996,12.0,7,2,3,2,2,1,5,20.0,4,8,0,8,0,7,1,0
+Lucas Barbosa,BRA,"FW,MF",RB Bragantino,23,2001,25.9,48,30,20,17,11,18,43,41.9,25,52,7,45,19,67,56,0
+Alexander Barboza,ARG,DF,Botafogo (RJ),29,1995,23.9,46,37,38,7,1,32,45,71.1,13,32,15,17,22,68,166,2
+Adam Bareiro,PAR,FW,Fortaleza,28,1996,9.8,11,8,3,6,2,5,10,50.0,5,5,2,3,0,11,12,0
+Chrystian Barletta,BRA,"FW,MF",Sport Recife,23,2001,16.7,15,6,1,9,5,7,21,33.3,14,16,1,15,11,26,11,0
+Álvaro Barreal,ARG,"FW,MF",Santos,24,2000,24.9,44,22,13,23,8,25,69,36.2,44,53,9,44,24,68,31,1
+Jordan Barrera,COL,"FW,MF",Botafogo (RJ),18,2006,3.4,4,2,3,1,0,2,3,66.7,1,0,0,0,0,4,2,0
+Cauan Barros,BRA,MF,Vasco da Gama,20,2004,14.9,30,21,10,17,3,14,30,46.7,16,22,11,11,21,51,54,1
+Enmerson Batalla,COL,"FW,MF",Juventude,23,2001,14.6,22,16,7,11,4,8,20,40.0,12,8,2,6,2,24,6,1
+Paulo Baya,BRA,FW,Ceará,25,1999,4.8,4,2,2,1,1,3,8,37.5,5,4,0,4,0,4,2,1
+Paulo Baya,BRA,"MF,FW",Fluminense,25,1999,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,1
+José Luis Rodríguez Bebanz,URU,DF,Vasco da Gama,27,1997,16.1,21,10,10,7,4,14,20,70.0,6,17,8,9,12,33,55,0
+Erick Belé,BRA,MF,Palmeiras,18,2007,0.3,2,2,1,1,0,1,1,100.0,0,1,0,1,0,2,0,0
+Luis Benedetti,BRA,DF,Palmeiras,18,2006,4.2,5,2,3,2,0,2,2,100.0,0,4,3,1,6,11,26,0
+Alan Benítez,PAR,"DF,FW",Internacional,31,1994,6.1,12,5,7,5,0,9,16,56.3,7,6,1,5,2,14,24,0
+Alexandro Bernabei,ARG,DF,Internacional,24,2000,28.7,78,44,33,31,14,44,95,46.3,51,36,6,30,37,115,71,1
+Facundo Bernal,URU,MF,Fluminense,21,2003,11.5,27,19,7,16,4,18,29,62.1,11,16,5,11,9,36,17,0
+Bernard,BRA,"MF,FW",Atlético Mineiro,32,1992,13.4,29,14,9,11,9,14,28,50.0,14,12,2,10,9,38,8,0
+Bernardo,BRA,DF,Juventude,19,2005,0.5,2,2,0,0,2,1,1,100.0,0,1,0,1,1,3,0,0
+Matheus Bianqui,BRA,"MF,FW",Mirassol,27,1998,1.6,6,6,0,5,1,2,2,100.0,0,3,0,3,0,6,7,0
+Matheus Bidu,BRA,DF,Corinthians,25,1999,21.8,35,27,18,10,7,19,33,57.6,14,28,7,21,23,58,44,2
+Biel,BRA,"FW,MF",Atlético Mineiro,23,2001,6.6,8,4,2,2,4,4,8,50.0,4,3,0,3,4,12,2,1
+Rafael Bilu,BRA,"FW,MF",Juventude,25,1999,7.6,9,6,2,6,1,5,13,38.5,8,8,1,7,1,10,8,0
+Damián Bobadilla,PAR,MF,São Paulo,23,2001,23.3,49,33,11,27,11,17,39,43.6,22,28,4,24,19,68,24,0
+Yannick Bolasie,COD,"FW,MF",Cruzeiro,35,1989,2.0,4,1,2,1,1,3,4,75.0,1,1,0,1,1,5,10,0
+Gabriel Bontempo,BRA,"MF,FW",Santos,20,2005,11.1,30,15,16,9,5,11,28,39.3,17,10,1,9,20,50,14,0
+Thiago Borbas,URU,"FW,MF",RB Bragantino,22,2002,6.4,8,5,3,3,2,5,11,45.5,6,10,2,8,2,10,9,0
+Daniel Borges,BRA,DF,Mirassol,31,1993,10.0,14,8,7,4,3,5,14,35.7,9,11,3,8,10,24,33,1
+Marllon Borges,BRA,DF,Ceará,32,1992,23.1,25,11,18,6,1,10,19,52.6,9,18,17,1,12,37,149,2
+Pedro Borges,BRA,MF,Fortaleza,27,1997,0.4,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+Pedro Borges,BRA,MF,Sport Recife,27,1997,5.6,16,9,7,9,0,6,11,54.5,5,6,2,4,7,23,16,0
+Rafael Borré,COL,FW,Internacional,29,1995,20.1,37,24,6,15,16,7,22,31.8,15,13,1,12,6,43,19,0
+Lucas Braga,BRA,"FW,DF",Vitória,28,1996,10.8,21,13,9,10,2,7,13,53.8,6,15,1,14,6,27,13,0
+Bilal Brahimi,ALG,FW,Santos,24,2000,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Martin Braithwaite,DEN,FW,Grêmio,33,1991,16.2,9,5,3,3,3,4,7,57.1,3,5,1,4,3,12,10,0
+Gabriel Brazão,BRA,GK,Santos,24,2000,37.7,1,1,1,0,0,1,3,33.3,2,0,0,0,1,2,26,3
+Brenno,BRA,GK,Fortaleza,25,1999,15.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,8,2
+Breno,BRA,"FW,MF",Fortaleza,29,1996,25.3,16,12,7,5,4,6,12,50.0,6,13,0,13,4,20,6,0
+Breno,BRA,MF,Corinthians,19,2005,28.0,47,29,17,24,6,20,52,38.5,32,36,6,30,19,66,26,0
+Emanuel Brítez,ARG,DF,Fortaleza,32,1992,17.7,24,14,15,8,1,15,22,68.2,7,16,11,5,20,44,99,0
+Bruninho,BRA,MF,Fortaleza,19,2005,0.8,2,2,0,1,1,2,3,66.7,1,5,1,4,2,4,0,0
+Fabrício Bruno,BRA,DF,Cruzeiro,28,1996,32.8,46,36,29,15,2,25,34,73.5,9,44,26,18,24,70,231,2
+Gustavo Caballero,PAR,"FW,DF",Santos,23,2001,3.7,6,5,3,1,2,4,5,80.0,1,3,1,2,8,14,5,0
+Arthur Cabral,BRA,FW,Botafogo (RJ),26,1998,16.0,12,5,2,6,4,3,4,75.0,1,9,3,6,1,13,21,0
+Cacá,BRA,DF,Corinthians,25,1999,15.6,24,20,14,9,1,20,26,76.9,6,15,9,6,10,34,60,1
+Raúl Cáceres,PAR,DF,Vitória,33,1991,18.7,32,21,21,6,5,17,36,47.2,19,15,4,11,9,41,84,0
+Cadu,BRA,DF,Atlético Mineiro,20,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Calebe,BRA,MF,Fortaleza,24,2000,2.5,4,2,0,2,2,1,3,33.3,2,3,1,2,2,6,2,0
+Jonathan Calleri,ARG,FW,São Paulo,31,1993,1.3,2,1,0,1,1,0,0,,0,0,0,0,0,2,0,0
+João Camargo,BRA,FW,Flamengo,17,2007,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Camilo,BRA,"MF,DF",Grêmio,25,1999,8.2,22,11,11,9,2,9,18,50.0,9,10,3,7,16,38,31,0
+Camutanga,BRA,DF,Vitória,31,1993,13.8,15,10,9,6,0,7,11,63.6,4,12,4,8,13,28,92,0
+Luan Cândido,BRA,DF,Sport Recife,23,2001,14.6,13,6,4,7,2,7,15,46.7,8,33,13,20,17,30,81,0
+Germán Cano,ARG,FW,Fluminense,36,1988,16.6,6,4,1,5,0,2,9,22.2,7,6,1,5,2,8,8,1
+Agustín Canobbio,URU,"FW,MF",Fluminense,26,1998,23.4,57,32,26,30,1,31,60,51.7,29,27,3,24,12,69,28,1
+Aitor Cantalapiedra,ESP,"MF,FW",Vitória,28,1996,14.2,11,7,3,3,5,5,9,55.6,4,10,1,9,4,15,10,0
+Juninho Capixaba,BRA,DF,RB Bragantino,27,1997,21.9,50,35,25,19,6,19,45,42.2,26,35,11,24,21,71,81,3
+Johan Carbonero,COL,"FW,MF",Internacional,25,1999,16.2,14,8,1,9,4,6,13,46.2,7,17,1,16,2,16,4,0
+Felipe Cardoso,BRA,FW,Vitória,21,2003,0.9,1,1,1,0,0,0,0,,0,1,0,1,0,1,0,0
+Edson Carioca,BRA,FW,Mirassol,27,1997,13.0,27,17,8,15,4,6,18,33.3,12,20,2,18,5,32,10,0
+Igor Cariús,BRA,DF,Sport Recife,31,1993,19.2,47,29,27,17,3,30,48,62.5,18,32,6,26,27,74,85,0
+Carlinhos,BRA,FW,Vitória,27,1997,1.8,3,1,0,0,3,0,0,,0,0,0,0,1,4,3,0
+Antonio Carlos,BRA,DF,Sport Recife,31,1993,3.0,3,2,3,0,0,0,3,0.0,3,0,0,0,1,4,21,0
+Jean Carlos Vicente,BRA,"MF,FW",Juventude,32,1992,2.3,3,3,1,2,0,1,3,33.3,2,3,1,2,0,3,1,0
+Ruan Carneiro,BRA,GK,Juventude,34,1990,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Jorge Carrascal,COL,"FW,MF",Flamengo,26,1998,9.1,28,15,8,9,11,10,19,52.6,9,8,0,8,4,32,5,0
+André Carrillo,PER,MF,Corinthians,33,1991,14.2,24,14,14,9,1,5,19,26.3,14,12,2,10,11,35,11,1
+Gabriel Carvalho,BRA,FW,Internacional,17,2007,0.8,2,1,0,2,0,1,1,100.0,0,1,1,0,0,2,1,0
+Cássio,BRA,GK,Cruzeiro,37,1987,34.3,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,10,6
+Iury de Castilho,BRA,FW,Mirassol,29,1995,5.5,7,7,2,5,0,0,4,0.0,4,3,0,3,2,9,4,0
+Caue,BRA,DF,RB Bragantino,18,2006,0.5,2,2,2,0,0,1,2,50.0,1,0,0,0,1,3,1,0
+Murilo Cerqueira,BRA,DF,Palmeiras,27,1997,18.4,28,18,10,17,1,12,24,50.0,12,29,11,18,17,45,86,1
+Julio Cesar,BRA,DF,Fluminense,18,2006,2.0,3,2,2,1,0,2,2,100.0,0,0,0,0,4,7,5,0
+Kayky Chagas,BRA,"FW,MF",Bahia,21,2003,9.9,22,9,11,8,3,6,17,35.3,11,12,1,11,5,27,5,0
+Gabriel Chapecó,BRA,GK,Grêmio,24,2000,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,0
+Chico,BRA,"MF,FW",Mirassol,33,1991,3.9,12,8,1,8,3,5,14,35.7,9,4,0,4,5,17,2,1
+Chico,BRA,DF,Sport Recife,26,1998,11.8,19,11,12,7,0,14,20,70.0,6,13,10,3,12,31,93,2
+Christian,BRA,FW,Cruzeiro,24,2000,26.2,36,18,10,20,6,19,33,57.6,14,29,3,26,20,56,25,0
+Cipriano,BRA,DF,Juventude,22,2002,2.1,2,1,1,1,0,1,3,33.3,2,3,1,2,4,6,8,0
+Claudinho,BRA,DF,Vitória,24,2000,10.0,21,10,14,7,0,14,25,56.0,11,13,5,8,10,31,26,1
+Clayson,BRA,FW,Mirassol,29,1995,2.8,2,1,1,1,0,1,5,20.0,4,3,0,3,1,3,0,0
+Clayton,BRA,DF,Internacional,24,2000,8.5,10,6,6,4,0,3,6,50.0,3,18,11,7,10,20,45,1
+Cleiton,BRA,DF,Flamengo,21,2003,0.9,3,2,1,2,0,1,1,100.0,0,2,2,0,2,5,7,0
+Mateus Cocão,BRA,MF,Vasco da Gama,22,2002,6.6,19,9,8,10,1,9,18,50.0,9,2,2,0,11,30,12,2
+Igor Coronado,BRA,MF,Corinthians,32,1992,3.8,7,1,1,3,3,4,8,50.0,4,3,1,2,2,9,2,0
+Joaquín Correa,ARG,"MF,FW",Botafogo (RJ),30,1994,10.0,12,8,3,8,1,4,18,22.2,14,5,0,5,2,14,1,0
+Francisco da Costa,BRA,FW,Mirassol,29,1995,13.2,2,1,0,1,1,0,5,0.0,5,6,4,2,1,3,14,0
+Philippe Coutinho,BRA,MF,Vasco da Gama,32,1992,26.7,23,11,6,11,6,11,26,42.3,15,17,3,14,7,30,9,0
+Lucas Crispim,BRA,"MF,FW",Fortaleza,30,1994,4.7,2,1,0,0,2,1,3,33.3,2,7,2,5,2,4,3,0
+Franco Cristaldo,ARG,"MF,FW",Grêmio,28,1996,14.0,23,14,7,8,8,13,27,48.1,14,14,3,11,5,28,13,1
+Gustavo Cuellar,COL,MF,Grêmio,32,1992,9.8,30,21,13,13,4,11,26,42.3,15,11,0,11,12,42,16,2
+Tomás Cuello,ARG,"FW,MF",Atlético Mineiro,24,2000,13.4,25,15,8,9,8,9,16,56.3,7,5,2,3,7,32,7,0
+Carlos Cuesta,COL,DF,Vasco da Gama,25,1999,12.1,18,12,14,3,1,7,10,70.0,3,10,6,4,13,31,62,1
+Cuiabano,BRA,"DF,MF",Botafogo (RJ),21,2003,17.0,34,27,18,12,4,13,27,48.1,14,19,4,15,21,55,33,1
+Jair Cunha,BRA,DF,Botafogo (RJ),19,2005,11.0,14,11,10,4,0,8,12,66.7,4,9,6,3,11,25,63,2
+Lucas Cunha,BRA,DF,Sport Recife,28,1997,4.8,5,2,3,2,0,5,10,50.0,5,6,5,1,7,12,20,0
+Danielzinho,BRA,MF,Mirassol,30,1994,36.3,60,40,24,33,3,20,37,54.1,17,33,16,17,23,83,54,3
+Danilo,BRA,"MF,FW",Botafogo (RJ),23,2001,9.2,18,8,9,5,4,9,24,37.5,15,9,2,7,9,27,6,1
+Danilo,BRA,DF,Flamengo,33,1991,15.7,10,8,6,4,0,5,12,41.7,7,10,6,4,14,24,59,0
+David,BRA,FW,Vasco da Gama,29,1995,8.3,9,5,3,3,3,6,10,60.0,4,8,0,8,5,14,5,2
+Matheus Davó,BRA,"FW,MF",Mirassol,25,1999,0.4,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+Giorgian De Arrascaeta,URU,"MF,FW",Flamengo,30,1994,26.1,34,15,10,16,8,11,24,45.8,13,12,2,10,7,41,10,0
+Nicolás De La Cruz,URU,MF,Flamengo,27,1997,11.3,21,14,13,8,0,12,20,60.0,8,6,2,4,7,28,8,1
+Gabriel Delfim,BRA,GK,Atlético Mineiro,22,2002,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+Deyverson,BRA,FW,Fortaleza,33,1991,13.0,4,4,2,0,2,1,7,14.3,6,4,1,3,5,9,18,0
+Enzo Díaz,ARG,DF,São Paulo,29,1995,20.9,77,49,46,24,7,39,66,59.1,27,25,7,18,19,96,64,0
+Lautaro Díaz,ARG,"FW,MF",Cruzeiro,26,1998,0.9,0,0,0,0,0,0,2,0.0,2,2,0,2,0,0,1,0
+Lautaro Díaz,ARG,FW,Santos,26,1998,11.3,5,0,0,1,4,2,5,40.0,3,14,2,12,3,8,7,0
+Dieguinho Diego,BRA,MF,Ceará,29,1995,29.5,56,29,25,31,0,22,45,48.9,23,22,12,10,32,88,68,5
+Dieguinho,BRA,"FW,DF",Corinthians,17,2007,5.0,6,4,1,3,2,4,11,36.4,7,5,0,5,1,7,5,0
+Diogenes,BRA,GK,Santos,24,2001,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Dodi,BRA,MF,Grêmio,28,1996,26.0,51,28,21,25,5,27,48,56.3,21,30,9,21,29,80,45,0
+Fabricio Domínguez,URU,MF,Sport Recife,26,1998,1.1,2,1,2,0,0,1,3,33.3,2,1,0,1,1,3,0,0
+Matheus Donelli,BRA,GK,Corinthians,22,2002,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Mailton dos Santos,BRA,DF,São Paulo,26,1998,4.3,4,2,2,2,0,4,7,57.1,3,3,1,2,4,8,10,0
+Thiago dos Santos,BRA,"MF,DF",Fluminense,35,1989,3.2,10,8,3,7,0,4,11,36.4,7,3,1,2,3,13,12,0
+Alexis Duarte,PAR,DF,Santos,24,2000,4.5,9,3,5,4,0,4,5,80.0,1,5,2,3,3,12,25,0
+David Duarte,BRA,DF,Bahia,30,1995,24.5,19,11,13,6,0,7,13,53.8,6,25,22,3,14,33,162,0
+Dudu,BRA,"FW,MF",Cruzeiro,33,1992,2.4,2,1,0,1,1,1,3,33.3,2,3,0,3,1,3,0,0
+Dudu,BRA,MF,Vitória,25,1999,3.5,16,9,7,8,1,8,16,50.0,8,4,1,3,3,19,4,0
+Dudu,BRA,"MF,FW",Atlético Mineiro,33,1992,11.6,8,3,2,5,1,1,2,50.0,1,4,0,4,3,11,3,0
+Edenílson,BRA,MF,Grêmio,35,1989,20.0,17,14,4,9,4,5,10,50.0,5,16,4,12,17,34,8,1
+Eder,BRA,DF,Ceará,29,1995,3.0,0,0,0,0,0,0,0,,0,1,1,0,0,0,20,0
+EDU,BRA,DF,Vitória,24,2000,11.9,33,19,26,6,1,17,22,77.3,5,11,6,5,11,44,96,0
+Carlos Eduardo,BRA,"MF,FW",Cruzeiro,35,1989,10.1,14,6,3,8,3,7,20,35.0,13,15,4,11,7,21,13,0
+Carlos Eduardo,BRA,"FW,MF",Mirassol,28,1996,8.2,12,9,4,2,6,7,15,46.7,8,6,0,6,5,17,20,0
+Carlos Eduardo,BRA,"FW,DF",Vitória,28,1996,0.5,0,0,0,0,0,0,0,,0,3,2,1,1,1,0,0
+Alysson Edward,BRA,"FW,MF",Grêmio,18,2006,19.1,47,25,19,21,7,21,33,63.6,12,37,1,36,16,63,11,0
+Rodrigo Ely,BRA,DF,Grêmio,31,1993,0.4,1,1,1,0,0,0,0,,0,1,1,0,1,2,0,0
+Emerson,BRA,DF,Flamengo,26,1999,13.9,29,18,16,10,3,16,25,64.0,9,11,1,10,20,49,33,2
+Leandro Emmanuel Martínez,ARG,MF,Fortaleza,30,1994,8.2,17,10,5,11,1,9,18,50.0,9,10,2,8,7,24,10,1
+Ênio,BRA,"MF,FW",Juventude,23,2001,12.3,9,5,5,3,1,3,10,30.0,7,7,0,7,1,10,12,1
+Erick,BRA,"MF,DF",Bahia,27,1997,7.6,16,9,10,5,1,3,13,23.1,10,18,8,10,8,24,17,0
+Erick,BRA,"MF,FW",Vitória,27,1997,22.8,28,17,12,11,5,12,22,54.5,10,23,0,23,13,41,24,1
+Gonzalo Escobar,ARG,DF,Santos,27,1997,22.3,79,57,48,25,6,48,64,75.0,16,30,8,22,39,118,92,2
+Lucas Esteves,BRA,DF,Grêmio,24,2000,7.5,12,10,5,6,1,4,5,80.0,1,9,1,8,10,22,22,1
+Guilherme Estrella,BRA,MF,Vasco da Gama,19,2005,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0
+Lucas Evangelista,BRA,MF,Palmeiras,29,1995,11.6,30,19,9,20,1,11,27,40.7,16,9,3,6,6,36,9,0
+Éverson,BRA,GK,Atlético Mineiro,34,1990,36.0,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,19,2
+Evertton,BRA,MF,Flamengo,21,2003,10.9,17,12,6,9,2,9,15,60.0,6,13,2,11,4,21,11,0
+Ewerton,BRA,DF,Juventude,24,2000,12.8,23,16,15,6,2,13,31,41.9,18,5,1,4,21,44,42,1
+Fabinho,BRA,MF,RB Bragantino,22,2002,14.2,30,19,16,10,4,12,29,41.4,17,12,2,10,16,46,32,1
+Fábio,BRA,GK,Fluminense,44,1980,38.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,16,4
+Fabrício,BRA,"FW,MF",Mirassol,27,1997,3.3,1,0,1,0,0,0,3,0.0,3,7,1,6,0,1,1,0
+Fabrício,BRA,"FW,MF",Vitória,24,2000,4.4,13,8,9,2,2,4,10,40.0,6,8,0,8,4,17,5,0
+Fagner,BRA,DF,Cruzeiro,35,1989,9.2,20,10,13,7,0,10,17,58.8,7,11,1,10,12,32,38,1
+Marcos Felipe,BRA,GK,Bahia,28,1996,10.8,0,0,0,0,0,0,0,,0,0,0,0,1,1,10,1
+Lucas Fernandes,BRA,"MF,FW",Juventude,27,1997,4.4,3,2,1,2,0,1,3,33.3,2,3,0,3,4,7,0,1
+Matheus Fernandes,BRA,MF,RB Bragantino,26,1998,7.3,23,15,13,7,3,7,15,46.7,8,15,4,11,10,33,14,0
+Nathan Fernandes,BRA,"FW,MF",Botafogo (RJ),19,2005,3.7,5,1,2,2,1,1,4,25.0,3,2,0,2,2,7,5,0
+Fernandinho,BRA,FW,Ceará,27,1997,11.1,18,13,9,8,1,9,23,39.1,14,12,0,12,19,37,10,0
+Fernando,BRA,"MF,DF",Internacional,37,1987,4.6,9,5,5,4,0,4,12,33.3,8,8,5,3,6,15,8,0
+Fernando,BRA,"FW,MF",RB Bragantino,25,1999,3.5,5,1,1,3,1,3,7,42.9,4,3,0,3,0,5,4,0
+Nahuel Ferraresi,VEN,DF,São Paulo,26,1998,20.0,74,51,37,31,6,43,71,60.6,28,21,8,13,28,102,84,0
+Ferreira,BRA,"FW,DF",São Paulo,27,1997,17.6,23,15,12,9,2,13,30,43.3,17,17,1,16,6,29,11,1
+Bruno Ferreira,BRA,GK,Ceará,30,1994,30.7,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,20,1
+Lucas Ferreira,BRA,FW,São Paulo,18,2006,8.5,18,10,5,9,4,5,13,38.5,8,15,0,15,6,24,11,0
+Luiz Filipe,BRA,FW,Mirassol,23,2001,0.2,1,1,0,0,1,0,1,0.0,1,0,0,0,0,1,0,0
+André Filipinho,BRA,DF,Juventude,28,1997,3.4,5,1,3,1,1,1,3,33.3,2,3,1,2,5,10,19,0
+Riquelme Fillipi,BRA,"DF,FW",Palmeiras,18,2006,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Caíque França,BRA,GK,Sport Recife,29,1995,15.0,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,9,0
+Matheus França,BRA,"MF,FW",Vasco da Gama,20,2004,4.3,9,5,5,2,2,3,7,42.9,4,6,2,4,5,14,5,1
+Ryan Francisco,BRA,"FW,MF",São Paulo,18,2006,2.3,0,0,0,0,0,0,3,0.0,3,1,0,1,0,0,0,0
+Alan Franco,ECU,"MF,DF",Atlético Mineiro,26,1998,29.2,50,32,20,22,8,22,33,66.7,11,21,10,11,28,78,48,1
+Alan Franco,ARG,DF,São Paulo,28,1996,25.4,34,23,21,13,0,21,33,63.6,12,34,18,16,25,59,129,3
+Luan Freitas,BRA,DF,Juventude,24,2001,12.5,25,16,13,10,2,12,19,63.2,7,18,13,5,10,35,47,1
+Lucas Freitas,BRA,DF,Vasco da Gama,24,2001,17.2,16,9,9,6,1,12,18,66.7,6,26,21,5,19,35,86,3
+Marlon Freitas,BRA,MF,Botafogo (RJ),29,1995,32.5,46,30,20,20,6,28,57,49.1,29,37,18,19,24,70,54,0
+Riquelme Freitas,BRA,"FW,MF",Grêmio,18,2006,4.3,6,4,2,4,0,5,11,45.5,6,8,0,8,1,7,2,0
+Juan Freytes,ARG,DF,Fluminense,25,2000,32.5,24,15,17,6,1,16,33,48.5,17,29,17,12,16,40,185,5
+Adonis Frías,ARG,DF,Santos,26,1998,12.4,15,10,13,1,1,9,14,64.3,5,14,8,6,17,32,45,1
+Bruno Fuchs,BRA,"DF,MF",Palmeiras,25,1999,19.1,40,27,23,17,0,20,26,76.9,6,17,9,8,29,69,93,0
+Gabriel Fuentes,COL,DF,Fluminense,27,1997,9.2,19,12,10,7,2,5,9,55.6,4,6,3,3,11,30,29,0
+Daniel Fuzato,BRA,GK,Vasco da Gama,27,1997,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+Gabriel,BRA,DF,Bahia,23,2001,10.5,17,12,14,3,0,7,10,70.0,3,14,9,5,12,29,62,1
+Gabriel,BRA,"MF,FW",Mirassol,35,1990,17.7,9,7,3,3,3,6,10,60.0,4,19,9,10,5,14,10,1
+Gabriel,BRA,GK,Vitória,32,1992,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Gabriel,BRA,GK,Sport Recife,32,1992,23.0,3,1,3,0,0,3,5,60.0,2,0,0,0,0,3,17,3
+Gabriel,BRA,MF,RB Bragantino,32,1992,29.3,70,45,33,28,9,29,66,43.9,37,28,6,22,34,104,47,1
+Victor Gabriel,BRA,DF,Internacional,20,2004,12.3,24,20,14,10,0,13,17,76.5,4,18,12,6,18,42,95,1
+Antonio Galeano,PAR,FW,Ceará,24,2000,34.7,36,18,19,14,3,18,38,47.4,20,23,2,21,11,47,41,2
+Emerson Galego,BRA,"FW,MF",Juventude,25,1999,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+Mateo Gamarra,PAR,DF,Cruzeiro,24,2000,1.7,6,5,5,1,0,5,6,83.3,1,1,1,0,4,10,18,0
+Ganso,BRA,MF,Fluminense,35,1989,7.2,11,3,4,5,2,6,10,60.0,4,4,1,3,0,11,1,0
+Maurício Garcez,BRA,"FW,MF",Juventude,27,1997,0.7,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0
+Benjamín Garré,ARG,"FW,MF",Vasco da Gama,24,2000,3.3,6,5,4,2,0,3,9,33.3,6,6,1,5,2,8,4,0
+Rodrigo Garro,ARG,MF,Corinthians,27,1998,15.7,13,10,1,7,5,6,22,27.3,16,6,0,6,5,18,1,0
+Lucas Gazal,BRA,DF,Fortaleza,25,1999,6.1,6,5,6,0,0,3,8,37.5,5,10,5,5,8,14,46,0
+Gerson,BRA,"FW,MF",Flamengo,27,1997,7.9,17,14,5,7,5,9,14,64.3,5,7,1,6,5,22,3,0
+Agustín Giay,ARG,DF,Palmeiras,21,2004,22.0,59,43,31,22,6,32,55,58.2,23,25,8,17,14,73,52,2
+Gil,BRA,DF,Santos,37,1987,8.0,17,9,15,1,1,10,15,66.7,5,6,3,3,7,24,30,0
+Gilberto,BRA,DF,Bahia,31,1993,19.7,49,35,29,15,5,32,48,66.7,16,15,8,7,20,69,62,2
+Gilberto,BRA,FW,Juventude,35,1989,12.2,8,6,6,1,1,4,7,57.1,3,6,1,5,4,12,11,0
+Giovanny,BRA,"FW,MF",Juventude,27,1997,7.3,5,4,4,1,0,4,15,26.7,11,8,2,6,1,6,7,1
+Daniel Giraldo,COL,MF,Juventude,32,1992,7.6,11,8,6,4,1,7,17,41.2,10,11,5,6,3,14,22,1
+Leonardo Godoy,ARG,DF,Santos,29,1995,4.6,4,4,1,2,1,3,8,37.5,5,6,1,5,1,5,17,0
+Davi Goes,BRA,MF,Juventude,19,2005,0.7,1,1,1,0,0,0,0,,0,4,4,0,1,2,2,0
+Johnny Góes,BRA,DF,Flamengo,17,2007,1.0,3,0,3,0,0,2,2,100.0,0,1,0,1,2,5,5,0
+Bruno Gomes,BRA,"MF,DF",Internacional,23,2001,10.9,27,16,14,9,4,15,36,41.7,21,14,2,12,7,34,33,1
+Davi Gomes,BRA,FW,RB Bragantino,19,2005,2.5,2,0,1,0,1,1,6,16.7,5,3,0,3,0,2,1,0
+Fredi Gomes,BRA,DF,Bahia,18,2006,1.0,1,1,1,0,0,1,1,100.0,0,1,0,1,2,3,2,1
+Igor Gomes,BRA,MF,Atlético Mineiro,25,1999,20.3,20,11,4,11,5,5,22,22.7,17,26,6,20,20,40,16,2
+Carlos Gómez,COL,FW,Vasco da Gama,22,2002,11.4,11,7,6,0,5,6,12,50.0,6,9,1,8,7,18,13,0
+Gustavo Gómez,PAR,DF,Palmeiras,31,1993,25.7,50,27,30,17,3,28,42,66.7,14,35,24,11,35,85,142,1
+Nuno Gonçalo Moreira,POR,"FW,MF",Vasco da Gama,25,1999,28.3,32,18,5,13,14,16,41,39.0,25,24,5,19,15,47,35,2
+Matheus Gonçalves,BRA,FW,Flamengo,19,2005,0.8,1,1,0,1,0,1,3,33.3,2,2,0,2,0,1,0,0
+Gregore,BRA,MF,Botafogo (RJ),30,1994,10.9,48,28,21,18,9,21,35,60.0,14,16,6,10,13,61,19,0
+Guga,BRA,DF,Fluminense,26,1998,11.0,30,19,15,15,0,16,28,57.1,12,20,4,16,7,37,20,1
+Guilherme,BRA,"MF,FW",Mirassol,33,1991,6.0,11,7,4,5,2,4,12,33.3,8,4,0,4,5,16,4,0
+Guilherme,BRA,"FW,MF",Santos,29,1995,25.0,38,22,18,10,10,16,27,59.3,11,31,2,29,23,61,48,0
+Guilherme,BRA,DF,RB Bragantino,22,2002,7.1,17,10,12,3,2,11,17,64.7,6,17,6,11,4,21,19,0
+Guilherme,BRA,MF,Flamengo,18,2006,0.7,1,1,1,0,0,0,0,,0,1,0,1,0,1,1,0
+Ryan Guilherme,BRA,"MF,FW",Cruzeiro,22,2002,0.6,3,3,1,2,0,1,2,50.0,1,0,0,0,4,7,0,0
+Zé Guilherme,BRA,"DF,FW",Bahia,19,2005,1.0,0,0,0,0,0,0,0,,0,2,0,2,3,3,3,0
+Gustavinho,BRA,MF,RB Bragantino,20,2004,8.2,16,10,9,6,1,5,7,71.4,2,6,3,3,5,21,7,0
+Gustavo,BRA,GK,Juventude,31,1993,9.5,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,4,1
+Luiz Gustavo,BRA,"MF,DF",São Paulo,37,1987,8.7,23,14,7,14,2,9,15,60.0,6,7,6,1,12,35,26,1
+Luiz Gustavo,BRA,DF,Vasco da Gama,18,2006,3.2,4,2,3,1,0,1,3,33.3,2,3,3,0,2,6,24,0
+Ryan Gustavo,BRA,MF,Corinthians,21,2003,5.9,19,11,5,12,2,7,18,38.9,11,14,4,10,9,28,3,0
+Yeison Guzmán,COL,MF,Fortaleza,26,1998,2.1,1,1,0,1,0,1,3,33.3,2,1,0,1,2,3,0,0
+Lucas Halter,BRA,DF,Vitória,24,2000,32.3,39,28,32,7,0,23,33,69.7,10,48,37,11,16,55,189,3
+Héctor,ESP,"FW,MF",Corinthians,29,1995,2.7,4,2,0,3,1,1,3,33.3,2,1,0,1,2,6,1,0
+Henrique,BRA,"FW,MF",São Paulo,18,2006,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Bruno Henrique,BRA,MF,Internacional,35,1989,15.5,38,22,11,20,7,19,40,47.5,21,15,6,9,11,49,23,0
+Bruno Henrique,BRA,"FW,MF",Flamengo,34,1990,20.1,21,14,3,7,11,8,17,47.1,9,13,0,13,4,25,8,0
+Dalbert Henrique,BRA,"DF,FW",Sport Recife,31,1993,1.2,4,3,2,1,1,2,2,100.0,0,2,0,2,0,4,5,0
+Gustavo Henrique,BRA,DF,Corinthians,31,1993,23.0,28,21,20,6,2,13,23,56.5,10,30,23,7,18,46,125,1
+Matheus Henrique,BRA,"MF,FW",Cruzeiro,27,1997,8.0,24,13,10,14,0,10,18,55.6,8,10,4,6,7,31,8,1
+Paulo Henrique,BRA,DF,Vasco da Gama,28,1996,27.7,85,57,46,32,7,49,73,67.1,24,40,13,27,34,119,105,2
+Pedro Henrique,BRA,FW,Ceará,34,1990,15.3,33,26,10,15,8,13,28,46.4,15,3,0,3,8,41,15,3
+Pedro Henrique,BRA,DF,RB Bragantino,29,1995,29.5,29,18,24,5,0,20,36,55.6,16,34,27,7,32,61,216,2
+Hércules,BRA,MF,Fluminense,24,2000,24.0,52,32,24,24,4,22,43,51.2,21,18,5,13,11,63,31,1
+Diogo Hereda,BRA,DF,Sport Recife,26,1998,9.4,20,17,10,7,3,11,16,68.8,5,7,2,5,7,27,17,0
+Marcelo Hermes,BRA,"DF,MF",Juventude,29,1995,20.6,36,22,17,15,4,21,32,65.6,11,28,5,23,17,53,54,3
+José Herrera,ARG,"FW,MF",Fortaleza,21,2003,11.6,26,17,8,12,6,13,42,31.0,29,13,1,12,6,32,10,0
+Lucca Holanda,BRA,FW,Ceará,21,2003,0.1,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+Lucca Holanda,BRA,"FW,MF",Internacional,21,2003,1.8,2,1,1,1,0,0,0,,0,3,0,3,0,2,1,0
+Hudson,BRA,MF,Juventude,24,2001,2.6,4,1,1,2,1,0,2,0.0,2,0,0,0,2,6,4,0
+Hugo,BRA,"DF,MF",Corinthians,27,1997,5.1,8,7,2,4,2,2,12,16.7,10,6,1,5,5,13,16,0
+Victor Hugo,BRA,"MF,FW",Santos,20,2004,4.9,4,2,2,1,1,2,10,20.0,8,8,2,6,4,8,7,0
+Victor Hugo,BRA,DF,Sport Recife,16,2008,0.7,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+Victor Hugo,BRA,MF,Flamengo,20,2004,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0
+Vitor Hugo,BRA,DF,Atlético Mineiro,33,1991,18.2,27,17,19,7,1,17,21,81.0,4,22,16,6,26,53,114,2
+Huguinho,BRA,MF,Botafogo (RJ),17,2007,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0
+Hulk,BRA,"FW,MF",Atlético Mineiro,38,1986,27.1,17,11,6,7,4,2,10,20.0,8,16,3,13,1,18,19,2
+José Hurtado,ECU,DF,RB Bragantino,23,2001,20.7,38,27,19,17,2,19,36,52.8,17,25,5,20,19,57,69,1
+Hyan,BRA,MF,Santos,20,2004,0.2,2,1,1,1,0,1,1,100.0,0,0,0,0,1,3,0,0
+Hyoran,BRA,"MF,FW",Sport Recife,31,1993,4.5,11,5,3,6,2,5,12,41.7,7,4,1,3,1,12,2,0
+Iago,BRA,"DF,MF",Bahia,27,1997,7.0,11,10,4,5,2,3,6,50.0,3,5,2,3,5,16,14,0
+Iago,BRA,DF,Flamengo,19,2005,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,7,0
+Ignácio,BRA,DF,Fluminense,28,1996,12.7,25,15,18,7,0,10,13,76.9,3,15,11,4,15,40,94,1
+Juan Ignacio Dinenno,ARG,FW,Cruzeiro,30,1994,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Juan Ignacio Dinenno,ARG,FW,São Paulo,30,1994,2.9,3,1,1,2,0,1,4,25.0,3,0,0,0,0,3,1,0
+Juan Ignacio Ramírez,URU,FW,Sport Recife,27,1997,3.2,2,1,0,1,1,1,2,50.0,1,3,0,3,0,2,1,0
+Isaac,BRA,DF,Atlético Mineiro,20,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Isaque,BRA,MF,Fluminense,17,2007,0.2,1,1,0,0,1,0,0,,0,0,0,0,0,1,1,0
+Mateus Iseppe,BRA,MF,Atlético Mineiro,18,2006,0.0,2,2,0,0,2,0,0,,0,0,0,0,0,2,0,0
+Ismael,POR,MF,Vitória,25,1999,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,0
+Zé Ivaldo,BRA,DF,Santos,27,1997,20.0,30,22,18,10,2,20,37,54.1,17,24,17,7,23,53,110,1
+Ivan,BRA,GK,Internacional,27,1997,6.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Leo Jacó,BRA,"FW,MF",Vasco da Gama,19,2005,0.2,2,1,1,1,0,1,1,100.0,0,0,0,0,0,2,1,0
+Jadson,BRA,MF,Juventude,31,1993,31.5,48,25,22,22,4,10,45,22.2,35,41,11,30,35,83,38,3
+Jair,BRA,MF,Vasco da Gama,30,1994,6.2,13,9,7,6,0,8,15,53.3,7,8,2,6,6,19,9,0
+Jamerson,BRA,DF,Vitória,26,1998,11.4,27,19,18,5,4,12,19,63.2,7,9,4,5,12,39,42,0
+Janderson,BRA,"FW,MF",Vitória,25,1999,8.1,10,5,0,6,4,4,13,30.8,9,11,2,9,2,12,6,0
+Jandrei,BRA,GK,Juventude,31,1993,19.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,11,4
+Jardiel,BRA,FW,Grêmio,19,2005,0.5,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+Léo Jardim,BRA,GK,Vasco da Gama,29,1995,35.9,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,40,5
+Jeffinho,BRA,"FW,MF",Botafogo (RJ),25,1999,7.6,18,8,5,9,4,5,12,41.7,7,9,0,9,8,26,4,1
+Jefinho,BRA,MF,Sport Recife,18,2006,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0
+Jefté,BRA,"DF,MF",Palmeiras,21,2003,8.5,13,9,7,4,2,7,12,58.3,5,8,4,4,2,15,37,0
+Jemerson,BRA,DF,Grêmio,32,1992,8.6,18,12,12,6,0,10,12,83.3,2,5,2,3,9,27,53,0
+Jemmes,BRA,DF,Mirassol,24,2000,36.4,64,44,46,15,3,44,66,66.7,22,38,28,10,42,106,214,2
+Caíque de Jesus Gonçalves,BRA,MF,Juventude,29,1995,22.8,66,43,35,29,2,38,56,67.9,18,29,13,16,19,85,40,4
+Igor Jesus,BRA,FW,Botafogo (RJ),23,2001,9.7,3,3,0,3,0,1,4,25.0,3,8,5,3,0,3,8,0
+Maykon Jesus,BRA,DF,Vitória,19,2005,8.5,15,8,4,10,1,5,9,55.6,4,5,2,3,6,21,50,1
+Jhon Jhon,BRA,"MF,FW",RB Bragantino,22,2002,31.6,32,24,17,11,4,16,38,42.1,22,38,4,34,16,48,21,2
+John,BRA,GK,Botafogo (RJ),28,1996,17.0,1,1,1,0,0,1,1,100.0,0,2,0,2,1,2,7,1
+Felipe Jonatan,BRA,DF,Mirassol,26,1998,4.9,4,3,1,2,1,1,4,25.0,3,2,0,2,3,7,9,0
+Jonathan,BRA,DF,Cruzeiro,20,2004,8.9,15,9,12,3,0,9,19,47.4,10,10,6,4,11,26,57,0
+Kaio Jorge,BRA,FW,Cruzeiro,23,2002,28.8,12,8,3,6,3,5,10,50.0,5,16,2,14,6,18,10,0
+Jorginho,ITA,MF,Flamengo,33,1991,15.1,22,13,4,13,5,17,32,53.1,15,9,2,7,23,45,4,2
+José,BRA,DF,Cruzeiro,19,2005,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Willian José,BRA,FW,Bahia,33,1991,23.5,10,8,2,4,4,4,8,50.0,4,9,3,6,5,15,26,1
+Joshua,BRA,MF,Flamengo,17,2007,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Luciano Juba,BRA,DF,Bahia,25,1999,32.0,48,28,29,10,9,30,53,56.6,23,16,2,14,36,84,120,3
+Juninho,BRA,DF,Internacional,29,1995,16.7,28,17,18,8,2,9,19,47.4,10,24,18,6,18,46,98,0
+Juninho,BRA,FW,Flamengo,28,1996,4.2,7,6,1,4,2,1,5,20.0,4,3,0,3,1,8,5,0
+Kauê Junior,BRA,FW,Bahia,15,2009,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Robinho Junior,BRA,"FW,MF",Santos,17,2007,3.9,7,5,3,2,2,3,8,37.5,5,1,0,1,1,8,1,0
+Wanderson Junior,BRA,DF,Flamengo,17,2007,0.2,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+José Kadir,PAN,FW,Botafogo (RJ),17,2007,1.9,6,3,1,3,2,0,0,,0,2,0,2,0,6,1,0
+Kaiki,BRA,DF,Cruzeiro,21,2003,33.3,98,75,65,25,8,37,53,69.8,16,30,8,22,42,140,145,0
+Lucas Kal,BRA,"MF,DF",Sport Recife,28,1996,9.6,9,5,5,4,0,2,6,33.3,4,12,4,8,9,18,42,0
+Walter Kannemann,ARG,DF,Grêmio,33,1991,19.1,26,14,18,6,2,12,18,66.7,6,37,23,14,22,48,128,3
+Kanu,BRA,DF,Bahia,27,1997,5.7,7,6,4,3,0,3,6,50.0,3,6,5,1,6,13,21,0
+Kauê,BRA,GK,Corinthians,20,2004,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Kayke,BRA,FW,Fortaleza,18,2006,0.3,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0
+Kayke,BRA,"FW,MF",Corinthians,20,2004,4.0,1,1,0,0,1,0,6,0.0,6,3,0,3,3,4,0,0
+Renato Kayser,BRA,FW,Vitória,28,1996,23.1,12,5,0,6,6,4,13,30.8,9,12,0,12,4,16,26,0
+Kenji,BRA,FW,Cruzeiro,19,2006,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+John Kennedy,BRA,FW,Fluminense,22,2002,7.0,1,1,1,0,0,1,4,25.0,3,7,1,6,3,4,5,0
+Keno,BRA,"FW,MF",Fluminense,35,1989,5.7,10,7,5,3,2,5,7,71.4,2,2,0,2,0,10,4,0
+Kevyson,BRA,DF,Santos,20,2004,0.2,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,1,0
+Kevyson,BRA,DF,Sport Recife,20,2004,3.0,8,6,7,1,0,8,12,66.7,4,6,2,4,5,13,16,0
+Khellven,BRA,DF,Palmeiras,23,2001,10.8,16,10,9,7,0,9,26,34.6,17,8,2,6,7,23,28,0
+Gabriel Knesowitsch,BRA,DF,Mirassol,21,2003,4.0,3,3,2,1,0,2,3,66.7,1,4,2,2,1,4,36,0
+Benjamín Kuscevic,CHI,DF,Fortaleza,28,1996,19.0,37,25,27,10,0,22,31,71.0,9,22,14,8,16,53,116,3
+Derik Lacerda,BRA,FW,Sport Recife,25,1999,16.1,8,4,2,3,3,1,8,12.5,7,14,2,12,7,15,22,1
+Ignacio Laquintana,URU,"FW,MF",RB Bragantino,25,1999,11.3,11,6,5,4,2,5,20,25.0,15,12,2,10,8,19,5,0
+Larson,BRA,"MF,FW",Palmeiras,19,2005,0.8,3,3,1,1,1,2,2,100.0,0,3,2,1,0,3,0,0
+Joaquín Lavega,URU,"FW,DF",Fluminense,19,2005,0.7,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,2,0
+Leandrinho,BRA,DF,Vasco da Gama,19,2005,0.6,1,0,1,0,0,0,0,,0,0,0,0,0,1,2,0
+Helton Leite,BRA,GK,Fortaleza,34,1990,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,1
+Lelê,BRA,FW,Ceará,27,1997,1.2,0,0,0,0,0,0,0,,0,2,0,2,0,0,2,0
+Mauricio Lemos,URU,DF,Vasco da Gama,29,1995,2.7,1,1,0,1,0,1,1,100.0,0,9,9,0,3,4,17,1
+Rubén Lezcano,PAR,"MF,FW",Fluminense,20,2004,0.6,1,0,0,0,1,1,1,100.0,0,1,0,1,0,1,0,0
+Lima,BRA,"MF,FW",Fluminense,28,1996,12.2,17,10,4,12,1,6,14,42.9,8,8,1,7,9,26,4,1
+Lucas Lima,BRA,MF,Ceará,24,2000,1.4,7,6,4,3,0,3,4,75.0,1,2,0,2,2,9,4,0
+Lucas Lima,BRA,"MF,FW",Sport Recife,34,1990,28.3,36,23,9,20,7,15,50,30.0,35,10,0,10,8,44,16,0
+Leonardo Linck,BRA,GK,Botafogo (RJ),23,2001,16.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,3
+Kauan Lindes,BRA,MF,Botafogo (RJ),21,2003,0.3,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+Samuel Lino,BRA,FW,Flamengo,25,1999,15.5,26,17,11,11,4,10,32,31.3,22,25,2,23,3,29,13,0
+Lenny Lobato,BRA,FW,Sport Recife,23,2001,2.7,2,1,1,0,1,1,3,33.3,2,1,0,1,1,3,1,0
+David Loiola,BRA,DF,Botafogo (RJ),22,2002,20.3,25,12,18,6,1,17,28,60.7,11,28,16,12,16,41,111,0
+Marcelo Lomba,BRA,GK,Palmeiras,38,1986,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Felipe Longo,BRA,GK,Corinthians,19,2005,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+Renzo López,URU,FW,Vitória,30,1994,7.2,11,4,4,6,1,2,8,25.0,6,6,1,5,1,12,5,0
+Lourenço,BRA,MF,Ceará,27,1997,15.4,22,15,14,6,2,10,19,52.6,9,19,6,13,15,37,40,0
+Lucão,BRA,GK,RB Bragantino,23,2001,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,2
+Ayrton Lucas,BRA,DF,Flamengo,27,1997,13.7,31,26,17,13,1,13,26,50.0,13,12,5,7,9,40,29,0
+Jean Lucas,BRA,MF,Bahia,26,1998,29.7,61,43,17,28,16,24,49,49.0,25,31,5,26,15,76,24,0
+João Lucas,BRA,DF,Grêmio,26,1998,5.6,13,11,10,3,0,7,11,63.6,4,7,1,6,8,21,26,0
+Zé Lucas,BRA,MF,Sport Recife,16,2008,17.7,43,26,21,18,4,18,39,46.2,21,32,7,25,26,69,34,2
+Luciano,BRA,"FW,MF",São Paulo,31,1993,23.4,24,16,4,14,6,10,20,50.0,10,13,1,12,13,37,18,0
+Lucio,BRA,MF,Flamengo,17,2007,0.8,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,1
+Luighi,BRA,FW,Palmeiras,18,2006,3.8,5,1,1,3,1,3,12,25.0,9,7,0,7,1,6,2,0
+Victor Luis,BRA,"DF,MF",Vasco da Gama,31,1993,3.0,3,1,3,0,0,2,5,40.0,3,2,2,0,3,6,9,0
+Luisão,BRA,DF,Santos,21,2003,4.9,7,3,3,4,0,4,11,36.4,7,6,3,3,3,10,32,2
+David Luiz,BRA,DF,Fortaleza,37,1987,4.4,5,4,4,1,0,3,3,100.0,0,8,7,1,5,10,30,0
+Guilherme Luiz,BRA,FW,Ceará,19,2005,1.6,5,3,3,0,2,3,6,50.0,3,1,0,1,1,6,3,0
+Lyanco,BRA,DF,Atlético Mineiro,27,1997,15.7,30,18,22,4,4,12,18,66.7,6,20,13,7,37,67,80,3
+Everton Maceió,BRA,"FW,MF",Mirassol,21,2003,1.6,1,1,0,1,0,0,0,,0,2,0,2,0,1,4,1
+Willian Machado,BRA,DF,Ceará,28,1996,35.8,51,32,33,17,1,20,27,74.1,7,34,21,13,35,86,264,1
+Talles Magno,BRA,"FW,MF",Corinthians,22,2002,10.7,23,15,10,9,4,11,21,52.4,10,10,2,8,5,28,12,0
+Magrão,BRA,GK,Fortaleza,24,2000,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Gustavo Maia,BRA,FW,Sport Recife,24,2001,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Pablo Maia,BRA,MF,São Paulo,23,2002,16.3,28,15,10,13,5,12,26,46.2,14,23,8,15,6,34,24,3
+Thiago Maia,BRA,MF,Internacional,27,1997,22.0,33,23,16,13,4,15,31,48.4,16,29,7,22,35,68,49,1
+Maik,BRA,DF,São Paulo,20,2005,6.7,22,13,6,7,9,14,18,77.8,4,9,1,8,7,29,16,0
+Léo Mana,BRA,DF,Corinthians,20,2004,2.5,3,2,0,2,1,1,4,25.0,3,3,0,3,3,6,10,0
+Gustavo Mancha,BRA,DF,Fortaleza,20,2004,11.4,20,11,10,10,0,12,20,60.0,8,3,1,2,15,35,55,0
+Eros Mancuso,ARG,DF,Fortaleza,25,1999,26.4,59,34,44,10,5,40,72,55.6,32,20,3,17,23,82,69,0
+Luis Mandaca,BRA,"MF,FW",Juventude,23,2001,27.2,52,33,21,21,10,14,45,31.1,31,33,8,25,22,74,36,3
+Manoel,BRA,DF,Fluminense,34,1990,3.8,0,0,0,0,0,0,1,0.0,1,7,3,4,0,0,17,0
+Elias Manoel,BRA,"MF,FW",Botafogo (RJ),23,2001,0.3,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0
+José Manuel López,ARG,"FW,MF",Palmeiras,24,2000,22.2,29,19,5,16,8,10,18,55.6,8,25,3,22,6,35,17,0
+Fernando Marçal,BRA,DF,Botafogo (RJ),35,1989,11.2,16,11,13,3,0,9,13,69.2,4,20,11,9,14,30,56,1
+Marcão,BRA,GK,Juventude,32,1992,5.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+João Marcelo,BRA,DF,Cruzeiro,24,2000,2.5,4,4,0,4,0,2,3,66.7,1,5,4,1,5,9,21,0
+João Marcelo,BRA,FW,Atlético Mineiro,19,2005,0.8,2,1,1,1,0,2,2,100.0,0,2,0,2,0,2,1,0
+Zé Marcos,BRA,DF,Vitória,26,1998,27.0,23,18,14,7,2,11,18,61.1,7,24,18,6,19,42,173,1
+Marinho,BRA,FW,Fortaleza,34,1990,7.9,12,7,5,6,1,5,10,50.0,5,7,0,7,5,17,2,0
+Marlon,BRA,DF,Cruzeiro,27,1997,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Marlon,BRA,MF,Juventude,20,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Marlon,BRA,DF,Grêmio,27,1997,30.7,71,47,55,15,1,51,89,57.3,38,31,11,20,36,107,120,1
+Gustavo Marques,BRA,DF,RB Bragantino,23,2001,10.0,20,12,16,3,1,10,16,62.5,6,17,10,7,14,34,63,0
+Igor Marques,BRA,"DF,MF",Juventude,26,1999,15.8,50,30,23,21,6,32,47,68.1,15,21,2,19,34,84,41,1
+Lucca Marques,BRA,"DF,MF",São Paulo,17,2007,3.5,7,5,3,2,2,2,7,28.6,5,7,2,5,1,8,1,0
+Renato Marques,BRA,"FW,MF",Mirassol,21,2003,2.9,4,2,3,1,0,0,3,0.0,3,1,0,1,0,4,2,0
+Marquinhos,BRA,"FW,MF",Cruzeiro,21,2003,4.3,14,5,4,4,6,4,6,66.7,2,10,0,10,8,22,6,0
+Marquinhos,BRA,MF,Botafogo (RJ),17,2007,0.0,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+Juan Martín Lucero,ARG,FW,Fortaleza,33,1991,15.7,19,6,3,8,8,6,18,33.3,12,11,1,10,2,21,7,1
+Martinelli,BRA,MF,Fluminense,23,2001,30.2,46,31,24,16,6,16,34,47.1,18,41,11,30,17,63,44,3
+Alejandro Martínez,ARG,FW,Ceará,27,1997,0.5,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,1,0
+Emiliano Martínez,URU,"MF,DF",Palmeiras,25,1999,16.8,37,25,18,15,4,22,45,48.9,23,18,5,13,17,54,34,0
+Adriano Martins,BRA,DF,Juventude,27,1997,4.0,5,3,3,1,1,3,3,100.0,0,4,3,1,6,11,27,0
+Andre Martins,BRA,FW,Grêmio,23,2001,8.8,12,10,4,5,3,2,6,33.3,4,10,1,9,3,15,13,0
+Matheus Martins,BRA,"FW,MF",Botafogo (RJ),21,2003,7.3,12,8,2,9,1,6,13,46.2,7,4,0,4,3,15,3,0
+Gustavo Martins Santos,BRA,DF,Grêmio,22,2002,14.7,26,18,19,6,1,15,24,62.5,9,25,12,13,11,37,94,0
+Gonzalo Mastriani,URU,FW,Botafogo (RJ),31,1993,3.2,1,1,1,0,0,1,3,33.3,2,0,0,0,3,4,0,0
+Matheusinho,BRA,"MF,FW",Vitória,27,1997,19.6,20,16,5,12,3,4,10,40.0,6,4,1,3,12,32,9,1
+Matheusinho,BRA,"FW,MF",Sport Recife,26,1998,18.4,26,15,9,12,5,8,23,34.8,15,12,1,11,23,49,15,0
+Matheuzinho,BRA,DF,Corinthians,24,2000,29.2,63,40,37,19,7,38,72,52.8,34,33,10,23,37,100,87,1
+Ricardo Mathias,BRA,FW,Internacional,18,2006,9.0,8,5,1,3,4,3,4,75.0,1,4,1,3,0,8,11,0
+Guillermo Matías Fernández,ARG,MF,Fortaleza,33,1991,3.2,9,3,6,2,1,5,6,83.3,1,4,3,1,0,9,5,0
+Mauricio,BRA,"MF,FW",Palmeiras,23,2001,17.8,17,10,4,7,6,8,15,53.3,7,12,1,11,11,28,7,0
+Maycon,BRA,MF,Corinthians,27,1997,16.6,27,19,15,7,5,9,19,47.4,10,11,3,8,8,35,18,0
+Mayke,BRA,DF,Santos,32,1992,9.1,17,12,7,9,1,9,12,75.0,3,13,4,9,9,26,26,0
+Mayke,BRA,DF,Palmeiras,32,1992,2.3,5,4,2,1,2,3,5,60.0,2,3,1,2,0,5,5,0
+Luca Meirelles,BRA,"FW,MF",Santos,17,2007,1.0,1,1,0,1,0,0,3,0.0,3,1,0,1,0,1,1,0
+Arthur Melo,BRA,MF,Grêmio,28,1996,12.0,29,15,11,14,4,13,18,72.2,5,12,2,10,5,34,7,0
+Memphis,NED,FW,Corinthians,30,1994,17.2,8,3,0,5,3,3,10,30.0,7,5,0,5,2,10,1,0
+Nathan Mendes,BRA,DF,RB Bragantino,22,2002,12.9,18,11,9,6,3,15,19,78.9,4,12,5,7,13,31,32,0
+Thiago Mendes,BRA,"MF,DF",Vasco da Gama,32,1992,3.3,2,1,0,2,0,1,3,33.3,2,5,1,4,4,6,9,1
+Vinicius Mendonça,BRA,FW,RB Bragantino,20,2004,11.5,27,18,12,12,3,13,30,43.3,17,13,1,12,6,33,8,0
+Jean Meneses,CHI,FW,Vasco da Gama,31,1993,0.0,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+Ramon Menezes Roma,BRA,DF,Sport Recife,29,1995,20.8,18,14,16,2,0,11,17,64.7,6,23,18,5,26,44,128,1
+Gabriel Menino,BRA,"MF,DF",Atlético Mineiro,24,2000,9.9,17,9,8,8,1,10,19,52.6,9,13,1,12,10,27,12,1
+Gabriel Mercado,ARG,DF,Internacional,37,1987,13.3,15,10,8,7,0,10,11,90.9,1,13,10,3,14,29,72,0
+Micael,BRA,DF,Palmeiras,24,2000,14.4,27,17,13,13,1,10,14,71.4,4,10,6,4,9,36,90,1
+Michael,BRA,FW,Flamengo,28,1996,6.9,9,4,2,5,2,2,13,15.4,11,10,1,9,2,11,6,1
+Carlos Miguel,BRA,GK,Palmeiras,26,1998,9.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,8,0
+Fernando Miguel,BRA,GK,Ceará,39,1985,7.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,1
+Moises,BRA,"FW,MF",Fortaleza,28,1996,4.3,4,3,1,2,1,3,5,60.0,2,1,0,1,1,5,4,0
+Miguel Monsalve,COL,"FW,MF",Grêmio,20,2004,3.3,5,5,2,3,0,3,5,60.0,2,1,1,0,0,5,0,0
+Álvaro Montoro,ARG,"FW,MF",Botafogo (RJ),17,2007,10.4,18,14,8,7,3,10,14,71.4,4,8,0,8,14,32,4,1
+Kauã Moraes,BRA,DF,Cruzeiro,18,2006,2.2,3,3,1,2,0,3,11,27.3,8,2,2,0,1,4,7,0
+Aníbal Moreno,ARG,MF,Palmeiras,25,1999,20.1,44,32,23,16,5,28,53,52.8,25,22,5,17,27,71,30,1
+Santiago Moreno,COL,FW,Fluminense,24,2000,1.7,2,0,1,1,0,0,1,0.0,1,4,0,4,2,4,2,0
+Henry Mosquera,COL,"FW,MF",RB Bragantino,23,2001,8.6,13,7,5,6,2,7,9,77.8,2,6,0,6,5,18,5,0
+Gustavo Mosquito,BRA,"FW,MF",Vitória,27,1997,5.3,4,1,2,1,1,1,6,16.7,5,2,0,2,3,7,8,0
+Hugo Moura,BRA,"MF,DF",Vasco da Gama,27,1998,26.8,51,30,24,24,3,21,47,44.7,26,24,13,11,25,76,85,3
+Lucas Moura,BRA,"FW,MF",São Paulo,32,1992,5.0,5,2,3,1,1,3,5,60.0,2,5,1,4,3,8,4,0
+Neto Moura,BRA,MF,Mirassol,28,1996,27.0,68,42,30,33,5,25,53,47.2,28,30,7,23,44,112,63,1
+Lucas Mugni,ARG,MF,Ceará,33,1992,19.0,57,41,24,24,9,24,40,60.0,16,32,3,29,6,63,11,2
+Alex Muralha,BRA,GK,Mirassol,35,1989,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,9,1
+Bruno Nascimento,BRA,FW,Palmeiras,27,1997,3.8,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0
+Nata,BRA,"DF,MF",Juventude,23,2001,1.0,3,1,2,0,1,2,3,66.7,1,1,0,1,3,6,5,0
+Natanael,BRA,DF,Atlético Mineiro,23,2002,23.8,54,33,25,25,4,23,42,54.8,19,28,9,19,22,76,61,0
+Nathan,BRA,DF,Internacional,23,2001,1.0,4,0,2,1,1,1,2,50.0,1,1,0,1,0,4,1,0
+Nathan,BRA,"MF,FW",Grêmio,28,1996,1.0,0,0,0,0,0,0,1,0.0,1,4,0,4,0,0,1,0
+Kaiky Naves,BRA,DF,Palmeiras,22,2002,0.2,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,3,0
+Gui Negão,BRA,"FW,MF",Corinthians,17,2007,10.5,8,4,2,4,2,4,15,26.7,11,14,2,12,6,14,9,0
+Felipe Negrucci,BRA,"DF,MF",São Paulo,20,2004,2.5,2,2,2,0,0,2,3,66.7,1,6,5,1,1,3,14,0
+Negueba,BRA,"FW,MF",Mirassol,25,1999,24.0,29,19,12,11,6,14,25,56.0,11,27,7,20,10,39,27,0
+Edison Negueba,BRA,"FW,MF",Juventude,24,2000,1.2,5,2,1,3,1,0,0,,0,1,0,1,1,6,2,0
+Nenê,BRA,"FW,MF",Juventude,43,1981,11.2,7,5,1,6,0,5,11,45.5,6,8,0,8,2,9,5,0
+Neris,BRA,DF,Vitória,32,1992,5.9,5,2,3,2,0,1,3,33.3,2,3,2,1,6,11,34,0
+Rodrigo Nestor,BRA,MF,Bahia,24,2000,9.7,21,14,7,12,2,9,19,47.4,10,10,0,10,5,26,5,0
+Neto,BRA,GK,Botafogo (RJ),35,1989,2.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+José Vitor Silva Neves,BRA,FW,Mirassol,24,2000,0.3,2,0,0,1,1,1,2,50.0,1,0,0,0,0,2,0,0
+Newton,BRA,MF,Botafogo (RJ),24,2000,16.6,31,18,10,15,6,11,24,45.8,13,16,5,11,19,50,31,0
+Neymar,BRA,"FW,MF",Santos,32,1992,17.0,7,3,0,3,4,7,12,58.3,5,4,0,4,3,10,1,0
+Nicolas,BRA,DF,Ceará,27,1997,6.6,14,7,2,11,1,4,8,50.0,4,4,0,4,8,22,15,0
+Nicolas,BRA,DF,São Paulo,17,2007,0.5,2,2,1,1,0,2,2,100.0,0,1,1,0,2,4,0,0
+Saúl Ñíguez,ESP,MF,Flamengo,30,1994,12.8,34,24,15,18,1,17,30,56.7,13,17,5,12,18,52,19,0
+Nonato,BRA,MF,Fluminense,26,1998,10.2,25,14,9,12,4,13,22,59.1,9,13,4,9,9,34,9,0
+Erick Noriega,PER,"DF,MF",Grêmio,23,2001,13.2,12,6,9,2,1,6,9,66.7,3,18,15,3,12,24,76,0
+Lucas Oliveira,BRA,DF,Vasco da Gama,28,1996,2.9,4,4,4,0,0,1,4,25.0,3,5,4,1,10,14,26,1
+Sérgio Oliveira,POR,MF,Sport Recife,32,1992,11.1,26,18,11,13,2,11,25,44.0,14,10,0,10,5,31,12,2
+Cauly Oliveira Souza,BRA,"FW,MF",Bahia,29,1995,10.1,7,3,1,4,2,1,5,20.0,4,6,0,6,5,12,2,0
+Cristian Olivera,URU,"FW,MF",Grêmio,22,2002,14.3,27,22,13,6,8,16,28,57.1,12,11,2,9,3,30,12,0
+Christian Ortiz,ARG,MF,Sport Recife,32,1992,2.0,3,2,2,1,0,2,4,50.0,2,2,0,2,2,5,0,0
+Leo Ortiz,BRA,DF,Flamengo,29,1996,24.5,31,18,18,12,1,10,13,76.9,3,18,16,2,16,47,107,4
+Oscar,BRA,"FW,MF",São Paulo,33,1991,3.8,2,2,1,1,0,0,2,0.0,2,11,1,10,8,10,8,1
+Osvaldo,BRA,"FW,MF",Vitória,37,1987,11.1,10,5,6,4,0,5,13,38.5,8,8,0,8,7,17,10,0
+Otávio,BRA,MF,Fluminense,30,1994,2.4,5,2,2,3,0,0,2,0.0,2,1,0,1,5,10,7,0
+Luis Otávio,BRA,MF,Internacional,17,2007,8.6,27,18,12,13,2,9,16,56.3,7,6,1,5,13,40,15,1
+Luiz Otávio,BRA,DF,Mirassol,32,1992,1.8,0,0,0,0,0,0,1,0.0,1,3,3,0,2,2,17,0
+João Othavio Basso,BRA,DF,Santos,28,1997,5.8,7,4,7,0,0,3,5,60.0,2,5,4,1,5,12,25,0
+Pablo,BRA,DF,Internacional,18,2006,0.2,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+Pablo,BRA,FW,Sport Recife,32,1992,11.7,8,7,2,5,1,3,11,27.3,8,9,2,7,4,12,10,0
+Ruan Pablo,BRA,"FW,MF",Bahia,16,2008,0.6,2,1,0,1,1,1,3,33.3,2,1,0,1,0,2,0,0
+Bruno Pacheco,BRA,DF,Fortaleza,33,1991,14.0,25,17,12,10,3,17,29,58.6,12,12,5,7,11,36,34,0
+Luis Pacheco,BRA,MF,Palmeiras,16,2008,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Gonçalo Paciência,POR,FW,Sport Recife,30,1994,2.2,1,0,0,0,1,0,0,,0,4,0,4,0,1,4,0
+Brahian Palacios,COL,MF,Atlético Mineiro,22,2002,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Sergio Palacios,COL,DF,RB Bragantino,19,2005,0.8,1,0,1,0,0,0,1,0.0,1,0,0,0,0,1,3,0
+Kaio Pantaleão,BRA,DF,Botafogo (RJ),29,1995,10.4,10,8,4,5,1,3,9,33.3,6,8,3,5,15,25,56,1
+Rayan Passaglia Lelis,BRA,FW,Cruzeiro,18,2007,0.7,2,1,2,0,0,1,1,100.0,0,1,0,1,1,3,0,0
+Alan Patrick,BRA,"MF,FW",Internacional,33,1991,27.8,28,17,3,20,5,19,39,48.7,20,18,4,14,4,32,13,1
+Patryck,BRA,DF,São Paulo,22,2003,3.4,3,3,1,1,1,3,5,60.0,2,2,0,2,2,5,5,0
+Patrick de Paula,BRA,MF,Botafogo (RJ),25,1999,3.2,6,3,1,4,1,3,8,37.5,5,3,3,0,3,9,2,0
+Paulinho,BRA,"MF,FW",Vasco da Gama,28,1997,3.4,7,3,4,3,0,4,10,40.0,6,7,1,6,3,10,3,1
+Paulinho,BRA,"MF,FW",Palmeiras,24,2000,2.5,1,1,1,0,0,0,1,0.0,1,3,1,2,0,1,0,0
+Caio Paulista,BRA,"DF,MF",Atlético Mineiro,26,1998,9.8,17,7,9,4,4,10,17,58.8,7,10,4,6,9,26,24,0
+Marcos Paulo,BRA,DF,Juventude,22,2003,15.2,21,17,13,6,2,15,19,78.9,4,24,16,8,9,30,87,1
+Cristian Pavón,ARG,"FW,MF",Grêmio,29,1996,15.3,22,15,15,3,4,15,33,45.5,18,21,3,18,19,41,22,3
+Dimitri Payet,FRA,MF,Vasco da Gama,37,1987,2.1,3,3,0,2,1,1,3,33.3,2,0,0,0,2,5,0,0
+Pedrinho,BRA,"MF,FW",São Paulo,17,2007,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Pedro,BRA,FW,Flamengo,27,1997,11.6,9,6,3,3,3,4,10,40.0,6,9,1,8,6,15,7,0
+João Pedro Chermont,BRA,DF,Santos,19,2006,2.8,10,8,5,5,0,7,7,100.0,0,1,0,1,3,13,12,0
+João Pedro,BRA,DF,Corinthians,21,2003,13.8,22,13,17,5,0,12,16,75.0,4,18,13,5,12,34,66,2
+João Pedro,BRA,DF,Grêmio,28,1996,5.0,8,6,3,4,1,4,5,80.0,1,4,2,2,1,9,15,0
+João Pedro Pepê,BRA,MF,Vitória,27,1998,7.3,23,15,6,12,5,11,15,73.3,4,8,3,5,9,32,12,0
+Peixoto,BRA,"MF,DF",Juventude,27,1997,8.1,16,11,6,10,0,7,20,35.0,13,11,2,9,9,25,14,3
+Andreas Pereira,BRA,"MF,FW",Palmeiras,29,1996,11.2,10,5,2,6,2,5,17,29.4,12,9,2,7,7,17,8,0
+Léo Pereira,BRA,DF,Flamengo,29,1996,32.8,23,15,16,6,1,14,29,48.3,15,31,19,12,22,45,121,1
+Matheus Pereira,BRA,"MF,FW",Cruzeiro,28,1996,31.0,39,31,11,21,7,17,43,39.5,26,21,2,19,12,51,10,1
+Luan Peres Petroni,BRA,DF,Santos,30,1994,22.8,31,17,18,11,2,11,18,61.1,7,28,22,6,21,52,143,1
+Pernambuco,BRA,"FW,MF",Juventude,26,1998,0.6,3,2,1,1,1,0,1,0.0,1,2,1,1,0,3,0,0
+Petterson,BRA,MF,Juventude,21,2004,0.9,0,0,0,0,0,0,1,0.0,1,3,0,3,1,1,1,0
+Pierre,BRA,MF,Fortaleza,22,2002,9.3,20,10,6,12,2,10,21,47.6,11,15,5,10,17,37,18,1
+Yago Pikachu,BRA,"FW,MF",Fortaleza,32,1992,15.4,17,7,8,6,3,10,18,55.6,8,12,2,10,3,20,18,0
+Joaquín Piquerez,URU,DF,Palmeiras,26,1998,27.3,53,30,21,23,9,32,56,57.1,24,27,7,20,25,78,55,2
+Rafael Pires,BRA,GK,São Paulo,35,1989,35.0,1,1,1,0,0,1,3,33.3,2,1,0,1,0,1,14,2
+Lucas Piton,BRA,DF,Vasco da Gama,24,2000,28.3,31,26,14,12,5,16,25,64.0,9,9,0,9,36,67,86,0
+Isidro Pitta,PAR,FW,RB Bragantino,25,1999,12.1,4,2,1,3,0,1,4,25.0,3,7,2,5,0,4,9,0
+Diego Pituca,BRA,MF,Santos,32,1992,4.4,8,4,5,3,0,3,9,33.3,6,6,3,3,3,11,7,0
+Gonzalo Plata,ECU,"FW,MF",Flamengo,24,2000,15.0,24,19,13,5,6,7,20,35.0,13,14,0,14,2,26,10,0
+Tomas Pochettino,ARG,"MF,FW",Fortaleza,28,1996,17.1,35,21,15,14,6,17,42,40.5,25,25,3,22,21,56,24,0
+Mateo Ponte,URU,DF,Botafogo (RJ),21,2003,7.5,14,11,4,6,4,3,9,33.3,6,7,2,5,10,24,14,0
+Gustavo Prado,BRA,"MF,FW",Internacional,19,2005,6.2,9,5,2,6,1,1,9,11.1,8,10,1,9,0,9,5,0
+Kauã Prates,BRA,DF,Cruzeiro,16,2008,3.8,15,9,6,7,2,9,13,69.2,4,2,2,0,1,16,19,0
+Bruno Praxedes,BRA,"MF,FW",RB Bragantino,22,2002,4.4,3,3,0,2,1,1,9,11.1,8,7,1,6,4,7,1,0
+Lucca Prior,BRA,"MF,FW",Fortaleza,20,2004,7.3,11,6,7,3,1,4,13,30.8,9,9,2,7,3,14,6,0
+Erick Pulga,BRA,"FW,MF",Bahia,24,2000,18.7,32,20,15,11,6,4,20,20.0,16,9,0,9,16,48,19,1
+Erick Pulgar,CHI,MF,Flamengo,31,1994,13.8,18,13,3,10,5,7,20,35.0,13,10,3,7,24,42,21,2
+Du Queiroz,BRA,MF,Sport Recife,25,2000,6.8,8,6,1,3,4,2,7,28.6,5,11,1,10,5,13,4,0
+Igor Rabello,BRA,DF,Atlético Mineiro,29,1995,2.1,3,2,3,0,0,3,4,75.0,1,5,2,3,2,5,14,0
+Igor Rabello,BRA,DF,Fluminense,29,1995,1.6,2,1,2,0,0,2,2,100.0,0,2,0,2,2,4,7,0
+Zé Rafael,BRA,MF,Santos,31,1993,20.6,67,46,25,33,9,28,49,57.1,21,29,8,21,9,76,25,0
+Rafinha,BRA,DF,Sport Recife,18,2006,0.5,3,0,2,0,1,2,2,100.0,0,0,0,0,1,4,0,0
+André Ramalho,BRA,DF,Corinthians,32,1992,19.8,29,16,18,11,0,18,26,69.2,8,19,14,5,17,46,96,1
+Eric Ramires,BRA,MF,RB Bragantino,24,2000,19.8,32,20,18,11,3,16,35,45.7,19,17,5,12,13,45,31,1
+Ramon,BRA,DF,Vitória,23,2001,18.0,34,25,16,15,3,19,37,51.4,18,25,6,19,15,49,62,0
+Ramon,BRA,DF,Internacional,23,2001,3.7,5,4,0,5,0,2,3,66.7,1,5,2,3,5,10,11,1
+Lucas Ramon,BRA,DF,Mirassol,30,1994,28.9,60,42,32,21,7,30,75,40.0,45,23,6,17,52,112,137,1
+Chris Ramos,ESP,FW,Botafogo (RJ),28,1997,8.0,8,6,2,5,1,0,4,0.0,4,2,0,2,4,12,11,0
+Santi Ramos Mingo,ARG,DF,Bahia,23,2001,32.5,28,17,15,12,1,16,24,66.7,8,49,32,17,26,54,149,2
+Rafael Ramos,POR,"DF,FW",Ceará,30,1995,10.0,35,20,25,8,2,25,36,69.4,11,14,4,10,11,46,39,0
+Raniele,BRA,"MF,DF",Corinthians,28,1996,22.4,48,35,18,23,7,18,33,54.5,15,31,16,15,31,79,61,6
+Wellington Rato,BRA,"FW,MF",Vitória,32,1992,2.4,1,1,0,1,0,1,2,50.0,1,4,0,4,1,2,1,0
+Pedro Raul,BRA,FW,Ceará,28,1996,32.2,13,6,2,11,0,4,11,36.4,7,14,4,10,6,19,27,0
+Raykkonen,BRA,FW,Internacional,16,2008,1.4,2,2,1,0,1,0,0,,0,0,0,0,0,2,2,0
+Reginaldo,BRA,DF,Juventude,31,1993,13.0,12,9,6,6,0,5,9,55.6,4,9,4,5,10,22,40,0
+Reinaldo,BRA,DF,Mirassol,35,1989,32.1,44,31,21,15,8,22,50,44.0,28,25,4,21,17,61,106,2
+Reinier,BRA,"MF,FW",Atlético Mineiro,23,2002,3.7,11,3,5,4,2,5,7,71.4,2,4,0,4,2,13,2,0
+Robert Renan,BRA,DF,Vasco da Gama,21,2003,14.3,18,10,11,6,1,7,9,77.8,2,21,15,6,18,36,69,0
+Cristian Renato,BRA,FW,Mirassol,24,2000,15.0,9,5,1,7,1,2,9,22.2,7,10,3,7,3,12,11,1
+Renê,BRA,DF,Fluminense,32,1992,26.2,52,36,31,19,2,24,43,55.8,19,30,6,24,44,96,87,3
+Rezende,BRA,"MF,DF",Bahia,30,1995,6.4,11,7,6,4,1,5,9,55.6,4,4,2,2,7,18,23,1
+Murilo Rhikman,BRA,MF,Cruzeiro,18,2006,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Everton Ribeiro,BRA,MF,Bahia,35,1989,21.4,41,18,17,17,7,15,49,30.6,34,13,2,11,13,54,15,1
+Ricardo,BRA,MF,Vitória,30,1994,9.8,17,10,7,6,4,8,13,61.5,5,17,11,6,9,26,22,1
+João Ricardo Riedi,BRA,GK,Fortaleza,36,1988,14.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,0
+Richard,BRA,MF,Internacional,30,1994,3.1,6,5,4,2,0,3,5,60.0,2,7,2,5,6,12,6,0
+Richardson,BRA,MF,Ceará,33,1991,8.8,18,9,10,8,0,10,18,55.6,8,9,6,3,5,23,9,0
+Charles Rigon Matos,BRA,"MF,DF",Corinthians,28,1996,6.3,26,18,13,11,2,8,17,47.1,9,4,2,2,6,32,20,0
+Emiliano Rigoni,ARG,FW,São Paulo,31,1993,3.3,1,1,1,0,0,0,1,0.0,1,1,0,1,1,2,2,0
+Tomás Rincón,VEN,MF,Santos,37,1988,10.2,23,12,8,14,1,10,20,50.0,10,12,5,7,12,35,15,2
+Richard Ríos,COL,MF,Palmeiras,24,2000,8.1,14,7,6,5,3,7,19,36.8,12,17,2,15,8,22,6,0
+Riquelme,BRA,"FW,MF",Fluminense,17,2007,1.1,9,6,2,3,4,6,8,75.0,2,2,1,1,1,10,0,0
+Riquelme,BRA,DF,Sport Recife,18,2007,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,1
+Christian Rivera,COL,MF,Sport Recife,29,1996,30.3,80,52,29,47,4,37,68,54.4,31,25,5,20,29,109,30,6
+Pablo Roberto,BRA,MF,Fortaleza,25,1999,1.3,6,4,2,4,0,1,4,25.0,3,2,1,1,0,6,0,0
+Paulo Roberto,BRA,DF,Vitória,19,2005,1.1,4,3,3,1,0,2,6,33.3,4,0,0,0,2,6,5,0
+Marcos Rocha,BRA,DF,Palmeiras,36,1988,1.0,0,0,0,0,0,0,3,0.0,3,1,0,1,2,2,3,0
+Marcos Rocha,BRA,DF,Grêmio,36,1988,10.7,41,29,24,12,5,23,37,62.2,14,18,7,11,18,59,30,0
+Sergio Rochet,URU,GK,Internacional,31,1993,14.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,2
+Rodrigo,BRA,MF,São Paulo,20,2004,8.0,15,10,2,9,4,6,17,35.3,11,10,2,8,4,19,6,0
+Alisson Rodrigues,BRA,MF,Internacional,16,2008,0.3,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,1,0
+Ruben Rodrigues,POR,MF,Vitória,28,1996,0.3,2,2,0,2,0,1,2,50.0,1,0,0,0,0,2,1,0
+Alan Rodríguez,URU,MF,Internacional,25,2000,10.5,34,17,6,19,9,11,24,45.8,13,13,3,10,9,43,8,0
+Guzmán Rodríguez,URU,DF,RB Bragantino,24,2000,22.8,22,15,15,7,0,15,25,60.0,10,32,23,9,13,35,135,0
+Luciano Rodríguez,URU,FW,Bahia,21,2003,8.8,7,5,5,2,0,0,4,0.0,4,6,1,5,1,8,8,1
+Santiago Rodríguez,URU,"FW,MF",Botafogo (RJ),25,2000,14.8,25,19,9,15,1,12,31,38.7,19,18,1,17,13,38,11,0
+Rodriguinho,BRA,FW,Cruzeiro,21,2003,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Rodriguinho,BRA,"FW,MF",Ceará,21,2003,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Agustín Rogel,URU,DF,Internacional,27,1997,5.0,9,6,6,3,0,5,9,55.6,4,5,4,1,1,10,27,0
+Benjamín Rollheiser,ARG,"MF,FW",Santos,24,2000,24.6,21,14,6,11,4,8,32,25.0,24,21,1,20,4,25,9,0
+Iván Román,CHI,DF,Atlético Mineiro,18,2006,7.8,9,6,5,3,1,6,16,37.5,10,7,3,4,10,19,41,0
+Romarinho,BRA,"MF,FW",Vitória,34,1990,1.4,1,0,0,0,1,0,1,0.0,1,1,0,1,1,2,1,0
+Romarinho,BRA,"FW,MF",Sport Recife,30,1994,10.1,5,3,2,3,0,4,7,57.1,3,5,0,5,4,9,5,1
+Ángel Romero,PAR,"FW,MF",Corinthians,32,1992,11.9,20,12,6,12,2,8,16,50.0,8,7,0,7,7,27,7,0
+Lucas Romero,ARG,MF,Cruzeiro,30,1994,31.5,63,36,28,30,5,28,54,51.9,26,39,10,29,35,98,50,2
+Óscar Romero,PAR,"MF,FW",Internacional,32,1992,5.6,13,8,2,8,3,6,9,66.7,3,2,1,1,4,17,5,0
+Romulo,BRA,"MF,FW",Ceará,23,2001,1.5,2,2,0,1,1,0,2,0.0,2,2,0,2,0,2,3,0
+Rômulo,BRA,"DF,MF",Atlético Mineiro,21,2004,2.3,5,4,4,1,0,1,2,50.0,1,1,1,0,6,11,14,1
+Ronald,BRA,MF,Vitória,27,1997,20.8,43,29,16,19,8,23,40,57.5,17,23,6,17,13,56,12,0
+Ronald,BRA,"DF,MF",Grêmio,21,2003,2.6,7,5,4,3,0,6,13,46.2,7,5,1,4,1,8,11,0
+Ronaldo,BRA,GK,Bahia,28,1996,27.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,24,2
+Ronaldo,BRA,MF,Internacional,28,1996,8.6,31,24,14,15,2,13,21,61.9,8,10,2,8,14,45,15,1
+Budiga Roni,BRA,MF,Mirassol,25,1999,1.7,4,2,2,2,0,2,3,66.7,1,2,2,0,4,8,3,0
+Rony,BRA,"FW,MF",Atlético Mineiro,29,1995,27.8,27,18,8,10,9,10,20,50.0,10,18,4,14,21,48,26,0
+Vitor Roque,BRA,FW,Palmeiras,19,2005,23.5,20,17,3,7,10,3,8,37.5,5,17,1,16,6,26,7,0
+Diego Rosa,BRA,"MF,DF",Internacional,22,2002,2.2,7,3,2,3,2,3,7,42.9,4,1,0,1,3,10,4,0
+Matheus Rossetto,BRA,MF,Fortaleza,28,1996,10.3,14,7,5,8,1,8,15,53.3,7,11,4,7,2,16,20,0
+Agustín Rossi,ARG,GK,Flamengo,29,1995,37.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,14,6
+Ruan,BRA,DF,Atlético Mineiro,25,1999,9.0,9,6,7,2,0,3,11,27.3,8,12,10,2,14,23,44,0
+Ruan,BRA,DF,São Paulo,25,1999,4.0,4,4,4,0,0,3,3,100.0,0,6,5,1,7,11,41,1
+Rubens,BRA,"MF,DF",Atlético Mineiro,23,2001,11.5,38,30,17,16,5,13,20,65.0,7,19,6,13,29,67,41,1
+Alan Ruschel,BRA,DF,Juventude,35,1989,13.7,28,11,16,12,0,13,23,56.5,10,10,4,6,15,43,25,0
+Rwan,BRA,FW,Botafogo (RJ),23,2001,2.0,4,2,1,2,1,1,2,50.0,1,2,0,2,1,5,0,0
+José Sabino,BRA,DF,São Paulo,28,1996,25.5,35,23,22,12,1,14,31,45.2,17,30,25,5,49,84,162,1
+Daniel Sales,BRA,DF,Flamengo,18,2006,0.8,1,1,1,0,0,1,1,100.0,0,0,0,0,1,2,5,0
+Rodrigo Sam,BRA,DF,Juventude,29,1995,16.2,34,19,26,7,1,18,29,62.1,11,14,8,6,27,61,103,0
+Mateo Sanabria,ARG,"FW,MF",Bahia,20,2004,6.3,5,4,3,1,1,2,10,20.0,8,6,0,6,1,6,3,0
+Alex Sandro,BRA,DF,Flamengo,34,1991,17.2,14,7,5,6,3,5,9,55.6,4,18,7,11,18,32,53,2
+Agustín Sant'Anna,URU,DF,RB Bragantino,27,1997,5.8,14,9,7,4,3,9,17,52.9,8,8,3,5,10,24,20,1
+Alex Santana,BRA,MF,Corinthians,29,1995,1.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Alex Santana,BRA,MF,Grêmio,29,1995,4.3,4,3,2,2,0,3,6,50.0,3,2,1,1,5,9,8,0
+Ademir Santos,BRA,"FW,MF",Bahia,29,1995,21.9,33,22,10,9,14,15,43,34.9,28,22,0,22,5,38,12,0
+Eduardo Santos,BRA,DF,RB Bragantino,27,1997,3.5,7,5,5,2,0,2,2,100.0,0,9,6,3,8,15,24,0
+Júnior Santos,BRA,"FW,MF",Atlético Mineiro,30,1994,4.0,5,4,2,2,1,2,4,50.0,2,2,0,2,0,5,3,1
+Rodrigo Santos,BRA,MF,Fortaleza,24,2000,2.5,9,7,6,2,1,5,9,55.6,4,3,0,3,1,10,8,0
+Renzo Saravia,ARG,DF,Atlético Mineiro,31,1993,11.8,29,23,17,10,2,13,24,54.2,11,12,4,8,7,36,44,1
+Eduardo Sasha,BRA,"FW,MF",RB Bragantino,32,1992,25.0,17,8,0,10,7,6,14,42.9,8,8,1,7,6,23,22,0
+Lucas Sasha,BRA,MF,Fortaleza,34,1990,29.0,114,75,57,51,6,52,109,47.7,57,41,7,34,59,173,60,0
+Jefferson Savarino,VEN,MF,Botafogo (RJ),28,1996,21.3,12,8,4,7,1,1,8,12.5,7,3,0,3,2,14,8,0
+Kike Saverio,ESP,"MF,FW",Vitória,25,1999,0.4,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Gustavo Scarpa,BRA,"MF,FW",Atlético Mineiro,31,1994,25.6,15,10,5,6,4,8,19,42.1,11,18,4,14,13,28,28,2
+João Scatolin,BRA,FW,Juventude,16,2008,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0
+João Schmidt,BRA,MF,Santos,31,1993,23.9,54,28,15,29,10,21,43,48.8,22,39,11,28,32,86,58,1
+Davi Schuindt,BRA,DF,Fluminense,20,2004,2.0,2,2,2,0,0,0,0,,0,3,2,1,2,4,13,0
+Cleiton Schwengber,BRA,GK,RB Bragantino,27,1997,34.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,18,3
+Paulo Sérgio,BRA,"DF,MF",São Paulo,19,2005,0.3,1,1,1,0,0,0,0,,0,0,0,0,0,1,0,0
+Kevin Serna,COL,"FW,MF",Fluminense,27,1997,23.2,39,27,14,22,3,22,38,57.9,16,15,2,13,15,54,18,0
+Igor Serrote,BRA,DF,Grêmio,19,2005,5.7,24,17,15,8,1,19,26,73.1,7,9,5,4,14,38,31,0
+Juan Sforza,ARG,MF,Vasco da Gama,22,2002,0.8,1,1,1,0,0,1,2,50.0,1,0,0,0,1,2,1,0
+Juan Sforza,ARG,MF,Juventude,22,2002,3.0,12,6,5,4,3,8,10,80.0,2,5,2,3,2,14,5,0
+Shaylon,BRA,MF,Mirassol,27,1997,4.9,11,6,5,3,3,6,11,54.5,5,5,0,5,5,16,11,0
+Aderlan Silva,BRA,DF,Santos,34,1990,1.0,1,0,0,1,0,1,1,100.0,0,2,0,2,1,2,1,0
+Aderlan Silva,BRA,DF,Sport Recife,34,1990,10.2,15,7,8,5,2,10,26,38.5,16,14,7,7,14,29,31,0
+André Silva,BRA,FW,São Paulo,27,1997,15.1,12,5,2,4,6,1,4,25.0,3,12,3,9,10,22,15,0
+João Silva,POR,DF,Sport Recife,26,1999,11.0,10,6,8,1,1,2,8,25.0,6,13,8,5,8,18,46,0
+Luan Silva,BRA,MF,São Paulo,25,1999,1.9,1,1,0,1,0,0,2,0.0,2,5,0,5,3,4,4,0
+Lucas Silva,BRA,MF,Cruzeiro,31,1993,30.6,48,28,18,24,6,25,47,53.2,22,20,4,16,12,60,35,0
+Matheus Pereira da Silva,BRA,MF,Fortaleza,26,1998,14.3,22,9,8,13,1,12,28,42.9,16,16,7,9,20,42,17,2
+Patrick Silva,BRA,MF,Atlético Mineiro,20,2004,2.5,5,2,4,0,1,3,5,60.0,2,0,0,0,6,11,5,0
+Thiago Silva,BRA,DF,Fluminense,40,1984,24.0,9,4,6,3,0,4,5,80.0,1,18,14,4,20,29,141,2
+Vinicius Silvestre,BRA,GK,Fortaleza,30,1994,2.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,1
+Luis Sinisterra,COL,FW,Cruzeiro,25,1999,3.6,5,3,2,2,1,2,6,33.3,4,10,2,8,2,7,1,0
+Cédric Soares,POR,"DF,FW",São Paulo,33,1991,21.0,35,22,22,10,3,19,32,59.4,13,18,8,10,10,45,47,2
+Everton Soares,BRA,"FW,MF",Flamengo,28,1996,9.7,13,9,6,3,4,6,13,46.2,7,5,0,5,4,17,4,0
+Tiquinho Soares,BRA,FW,Santos,34,1991,13.9,11,9,0,8,3,5,8,62.5,3,5,0,5,2,13,10,0
+Fernando Sobral,BRA,MF,Ceará,30,1994,16.7,46,28,23,18,5,20,49,40.8,29,26,3,23,14,60,26,0
+Ramón Sosa,PAR,"FW,MF",Palmeiras,25,1999,9.7,8,3,4,2,2,4,15,26.7,11,6,0,6,1,9,11,0
+Yeferson Soteldo,VEN,"FW,MF",Santos,27,1997,3.6,2,1,0,1,1,1,2,50.0,1,1,0,1,2,4,2,0
+Yeferson Soteldo,VEN,"FW,MF",Fluminense,27,1997,5.5,6,4,3,0,3,4,9,44.4,5,1,0,1,1,7,3,0
+Souza,BRA,DF,Santos,18,2006,18.2,41,30,23,13,5,26,38,68.4,12,16,7,9,24,65,67,0
+Fabiano Souza,BRA,DF,Ceará,24,2000,32.3,44,36,19,21,4,26,41,63.4,15,25,6,19,29,73,116,1
+Gabriel Souza,BRA,"FW,MF",Vasco da Gama,20,2005,1.5,5,4,2,3,0,3,7,42.9,4,3,1,2,3,8,0,0
+Hugo Souza,BRA,GK,Corinthians,26,1999,26.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,14,3
+Igor Vinícius de Souza,BRA,DF,São Paulo,27,1997,1.8,2,1,0,2,0,0,1,0.0,1,1,0,1,1,3,0,0
+Igor Vinícius de Souza,BRA,DF,Santos,27,1997,14.5,47,31,32,14,1,24,41,58.5,17,12,2,10,14,61,34,2
+Raul Steffens,BRA,GK,Botafogo (RJ),27,1997,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Everaldo Stum,BRA,FW,Fluminense,33,1991,15.0,8,4,0,6,2,4,8,50.0,4,4,1,3,0,8,14,0
+Bruno Tabata,BRA,"FW,MF",Internacional,27,1997,11.9,19,14,8,9,2,8,20,40.0,12,11,2,9,10,29,14,0
+Gabriel Taliari,BRA,"FW,MF",Juventude,27,1997,25.5,30,18,12,11,7,14,33,42.4,19,18,5,13,7,37,12,0
+Gonzalo Tapia,CHI,FW,São Paulo,22,2002,12.4,5,5,1,2,2,2,9,22.2,7,3,0,3,6,11,6,0
+Tchê Tchê,BRA,MF,Vasco da Gama,32,1992,22.2,19,10,4,11,4,10,19,52.6,9,11,2,9,12,31,16,0
+Alex Teixeira,BRA,"MF,FW",Vasco da Gama,35,1990,1.3,3,1,1,2,0,0,1,0.0,1,2,1,1,0,3,4,1
+Alex Telles,BRA,DF,Botafogo (RJ),32,1992,18.8,20,15,11,9,0,8,15,53.3,7,10,5,5,17,37,42,0
+Douglas Telles,BRA,"FW,MF",Flamengo,17,2007,0.9,0,0,0,0,0,0,4,0.0,4,0,0,0,1,1,0,0
+Thaciano,BRA,"FW,MF",Santos,29,1995,6.8,11,8,1,4,6,5,9,55.6,4,3,1,2,4,15,9,0
+Thalys,BRA,"MF,FW",Palmeiras,19,2005,1.0,1,1,1,0,0,0,0,,0,0,0,0,1,2,1,0
+Thiago,BRA,GK,Vitória,25,1999,8.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Rafael Thyere,BRA,DF,Sport Recife,31,1993,23.4,27,18,19,8,0,12,19,63.2,7,35,31,4,26,53,138,0
+Tiago,BRA,"FW,MF",Bahia,19,2005,10.0,12,10,6,3,3,2,4,50.0,2,9,4,5,0,12,16,1
+Guilherme Tinga,BRA,DF,Fortaleza,31,1993,8.4,14,5,11,3,0,11,20,55.0,9,11,7,4,10,24,40,0
+Titi,BRA,DF,Fortaleza,36,1988,3.0,4,1,2,2,0,2,4,50.0,2,2,2,0,10,14,11,0
+Kauan Toledo,BRA,"DF,MF",Botafogo (RJ),18,2006,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Rafael Tolói,ITA,DF,São Paulo,34,1990,5.5,16,9,9,5,2,8,11,72.7,3,7,4,3,10,26,37,1
+Félix Torres Caicedo,ECU,DF,Corinthians,28,1997,7.2,11,8,7,4,0,8,11,72.7,3,8,4,4,13,24,26,1
+Facundo Torres,URU,"FW,MF",Palmeiras,24,2000,18.5,17,10,10,6,1,5,16,31.3,11,16,3,13,5,22,15,0
+Bruno Tubarão,BRA,"FW,DF",Ceará,29,1995,1.1,4,2,2,2,0,2,5,40.0,3,2,0,2,0,4,1,0
+Enner Valencia,ECU,FW,Internacional,35,1989,7.0,5,4,1,4,0,1,4,25.0,3,2,2,0,1,6,5,0
+Vanderlan,BRA,DF,Palmeiras,22,2002,2.2,6,5,5,1,0,3,5,60.0,2,7,2,5,5,11,7,0
+Vanderlan,BRA,DF,RB Bragantino,22,2002,11.7,18,14,13,3,2,9,15,60.0,6,8,2,6,3,21,25,1
+Guillermo Varela,URU,DF,Flamengo,31,1993,14.7,27,16,13,10,4,12,21,57.1,9,7,5,2,8,35,45,1
+Pablo Vegetti,ARG,FW,Vasco da Gama,36,1988,25.9,15,9,5,6,4,9,25,36.0,16,16,3,13,7,22,40,1
+Raphael Veiga,BRA,MF,Palmeiras,29,1995,11.9,14,5,5,7,2,7,12,58.3,5,10,3,7,6,20,11,0
+Fausto Vera,ARG,MF,Atlético Mineiro,24,2000,12.5,29,18,12,13,4,15,24,62.5,9,9,6,3,10,39,16,0
+Gabriel Veron,BRA,"FW,MF",Santos,22,2002,1.4,7,6,4,3,0,3,6,50.0,3,1,1,0,0,7,0,0
+Gabriel Veron,BRA,"FW,MF",Juventude,22,2002,7.1,7,4,3,1,3,1,6,16.7,5,7,0,7,3,10,2,0
+João Victor,BRA,DF,Mirassol,27,1997,34.0,24,14,13,10,1,14,20,70.0,6,58,46,12,34,58,193,0
+João Victor,BRA,FW,Ceará,20,2004,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+João Victor,BRA,DF,Vasco da Gama,26,1998,15.9,28,25,23,5,0,15,19,78.9,4,24,11,13,10,38,99,2
+João Victor,BRA,DF,Flamengo,18,2007,2.2,1,1,1,0,0,1,2,50.0,1,4,3,1,1,2,11,2
+Marcos Victor,BRA,DF,Ceará,23,2001,14.9,20,13,14,6,0,8,8,100.0,0,13,8,5,11,31,102,1
+Lucas Vieira,BRA,MF,Flamengo,17,2007,0.2,3,1,2,1,0,2,2,100.0,0,0,0,0,1,4,1,0
+Viery,BRA,DF,Grêmio,20,2005,0.6,1,1,1,0,0,1,1,100.0,0,4,2,2,0,1,7,1
+Lucas Villalba,ARG,DF,Cruzeiro,30,1994,31.8,31,20,17,13,1,14,25,56.0,11,37,27,10,47,78,199,1
+Mathías Villasanti,PAR,MF,Grêmio,28,1997,12.8,41,28,18,18,5,19,40,47.5,21,18,2,16,25,66,30,0
+Matías Viña,URU,DF,Flamengo,27,1997,3.1,10,6,4,5,1,5,10,50.0,5,6,1,5,2,12,5,1
+Vinícius,BRA,MF,Ceará,33,1991,6.3,4,2,0,3,1,1,2,50.0,1,3,1,2,0,4,1,0
+Alix Vinicius,BRA,DF,RB Bragantino,25,1999,9.6,9,6,5,3,1,3,6,50.0,3,12,7,5,10,19,61,0
+Carlos Vinícius,BRA,FW,Grêmio,29,1995,10.5,2,2,0,1,1,0,2,0.0,2,3,1,2,0,2,9,0
+Vitão,BRA,DF,Internacional,24,2000,30.2,31,21,21,10,0,16,29,55.2,13,24,11,13,22,53,146,1
+Vitinho,BRA,"FW,MF",Internacional,25,1999,18.7,28,17,11,13,4,13,35,37.1,22,20,1,19,15,43,24,0
+Vitinho,BRA,"FW,MF",Corinthians,31,1993,5.3,12,8,6,3,3,5,9,55.6,4,7,1,6,2,14,0,0
+Vitinho,BRA,DF,Botafogo (RJ),25,1999,31.5,69,40,47,13,9,37,65,56.9,28,31,7,24,26,95,87,1
+Rayan Vitor,BRA,FW,Vasco da Gama,18,2006,31.5,30,15,10,14,6,13,23,56.5,10,20,1,19,14,44,49,0
+Tiago Volpi,BRA,GK,Grêmio,34,1990,32.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,8,2
+Wagner,BRA,DF,Grêmio,25,1999,26.3,28,14,17,10,1,13,23,56.5,10,25,22,3,35,63,159,1
+Walace,BRA,MF,Cruzeiro,29,1995,4.3,7,4,3,3,1,4,13,30.8,9,5,0,5,7,14,10,0
+Wallace,BRA,"FW,MF",Flamengo,19,2005,4.9,4,4,0,1,3,2,4,50.0,2,6,0,6,3,7,0,0
+Walter,BRA,GK,Mirassol,37,1987,31.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,19,1
+Wanderson,BRA,"FW,MF",Cruzeiro,30,1994,19.9,11,8,5,5,1,8,22,36.4,14,17,3,14,6,17,19,0
+Deivid Washington,BRA,FW,Santos,19,2005,6.2,3,2,1,2,0,1,6,16.7,5,0,0,0,5,8,2,0
+José Welison,BRA,MF,Fortaleza,29,1995,4.9,16,8,9,5,2,8,12,66.7,4,10,3,7,5,21,10,2
+João Wellington,BRA,"FW,MF",Cruzeiro,21,2004,1.5,4,1,2,0,2,1,5,20.0,4,3,0,3,3,7,3,0
+Wendell,BRA,MF,Vitória,19,2005,0.7,1,1,1,0,0,0,0,,0,1,0,1,3,4,2,2
+Wendell,BRA,DF,São Paulo,31,1993,9.3,20,15,8,9,3,10,13,76.9,3,8,1,7,10,30,34,0
+Wesley,BRA,"FW,MF",Internacional,25,1999,13.7,29,20,9,14,6,14,30,46.7,16,16,2,14,7,36,16,0
+Wesley,BRA,DF,Flamengo,21,2003,10.9,29,20,15,11,3,13,24,54.2,11,10,1,9,12,41,16,1
+Weverson,BRA,DF,Fortaleza,24,2000,2.4,3,2,2,1,0,3,4,75.0,1,4,0,4,1,4,6,0
+Wéverton,BRA,GK,Palmeiras,37,1987,26.0,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,8,2
+William,BRA,DF,Cruzeiro,29,1995,25.3,74,48,36,30,8,42,87,48.3,45,32,9,23,43,117,81,3
+Willian,BRA,MF,Vitória,31,1993,15.7,21,13,9,11,1,11,23,47.8,12,18,2,16,22,43,34,0
+Willian,BRA,"MF,FW",Grêmio,36,1988,3.4,0,0,0,0,0,0,3,0.0,3,7,1,6,1,1,0,0
+Estêvão Willian,BRA,"MF,FW",Palmeiras,17,2007,9.2,5,1,3,1,1,1,9,11.1,8,2,0,2,2,7,1,0
+Mateus Xavier,BRA,"FW,MF",Santos,17,2007,0.4,1,1,0,0,1,1,1,100.0,0,0,0,0,0,1,1,0
+Samuel Xavier,BRA,DF,Fluminense,34,1990,26.5,41,29,22,16,3,27,41,65.9,14,25,8,17,13,54,68,2
+Yago,BRA,MF,Mirassol,29,1995,7.0,18,7,8,9,1,5,16,31.3,11,14,4,10,6,24,6,1
+Yago,BRA,MF,Internacional,17,2007,0.8,1,1,0,1,0,0,0,,0,3,0,3,0,1,2,0
+Young,BRA,GK,São Paulo,22,2002,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+Vinícius Zanocelo,BRA,MF,Ceará,24,2001,12.1,25,17,10,13,2,18,32,56.3,14,9,2,7,16,41,27,0
+Lukas Zuccarello,BRA,FW,Vasco da Gama,18,2006,0.3,1,1,1,0,0,0,0,,0,2,0,2,0,1,0,0

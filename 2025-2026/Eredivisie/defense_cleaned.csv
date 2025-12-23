@@ -1,0 +1,447 @@
+﻿Player,Nation,Pos,Squad,Age,Born,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,Int,Tkl+Int,Clr,Err
+Patrick van Aanholt,NED,DF,Sparta R'dam,35-116,1990.0,7.3,18,11,12,4,2,11,21,52.4,10,15,6,9,5,23,19,0
+Aske Adelgaard,DEN,DF,Go Ahead Eag,22-043,2003.0,4.5,8,4,4,4,0,3,6,50.0,3,3,2,1,4,12,13,0
+Shawn Adewoye,BEL,DF,Fortuna Sittard,25-177,2000.0,14.1,30,20,21,5,4,15,20,75.0,5,20,12,8,18,48,67,1
+Olivier Aertssen,NED,DF,Zwolle,21-138,2004.0,12.4,31,20,18,12,1,18,27,66.7,9,20,9,11,17,48,74,1
+Isaiah Ahmed,CUW,MF,Heerenveen,19-360,2005.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+Anel Ahmedhodžić,BIH,DF,Feyenoord,26-272,1999.0,15.1,19,9,9,7,3,8,9,88.9,1,12,9,3,19,38,86,1
+Makan Aiko,FRA,FW,Fortuna Sittard,24-350,2001.0,5.1,5,4,1,4,0,0,1,0.0,1,6,0,6,3,8,3,0
+Gerald Alders,NED,DF,Ajax,20-230,2005.0,2.0,11,4,4,6,1,6,6,100.0,0,1,1,0,0,11,6,1
+Mawouna Amevor,TOG,DF,Volendam,34-007,1991.0,13.6,13,4,12,1,0,9,13,69.2,4,21,14,7,10,23,76,1
+Julian Baas,NED,MF,Sparta R'dam,23-251,2002.0,8.2,15,10,6,9,0,7,18,38.9,11,15,6,9,12,27,26,0
+Youri Baas,NED,DF,Ajax,22-281,2003.0,14.7,31,20,21,7,3,11,19,57.9,8,22,14,8,18,49,63,0
+Thibo Baeten,BEL,"FW,MF",Go Ahead Eag,23-202,2002.0,3.7,10,3,2,4,4,3,10,30.0,7,7,1,6,1,11,7,0
+Esmir Bajraktarevic,BIH,"FW,MF",PSV Eindhoven,20-288,2005.0,4.5,6,3,0,4,2,3,8,37.5,5,6,0,6,0,6,3,0
+Saïd Bakari,COM,DF,Sparta R'dam,31-092,1994.0,3.7,9,5,4,3,2,5,10,50.0,5,10,2,8,8,17,14,0
+Danny Bakker,NED,DF,Telstar,30-341,1995.0,12.3,16,10,8,7,1,7,16,43.8,9,24,8,16,15,31,70,2
+Max Balard,AUS,MF,NAC Breda,25-033,2000.0,15.4,31,14,19,7,5,15,20,75.0,5,11,4,7,14,45,31,1
+Vasilios Barkas,GRE,GK,Utrecht,31-207,1994.0,15.5,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,10,1
+Samuel Bastien,COD,"MF,DF",Fortuna Sittard,29-088,1996.0,0.1,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0
+Mimeirhel Benita,NED,DF,Heracles Almelo,22-036,2003.0,5.4,15,12,10,3,2,9,16,56.3,7,14,6,8,5,20,27,0
+Mitchell van Bergen,NED,FW,Sparta R'dam,26-118,1999.0,12.6,6,2,1,4,1,3,9,33.3,6,7,0,7,3,9,15,0
+Mitchell van Bergen,NED,FW,Twente,26-118,1999.0,0.7,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0
+Thom van Bergen,NED,"FW,MF",Groningen,21-351,2004.0,16.0,30,16,6,14,10,9,20,45.0,11,18,0,18,3,33,4,0
+Steven Berghuis,NED,"MF,FW",Ajax,34-004,1991.0,5.1,5,2,0,3,2,3,3,100.0,0,3,2,1,4,9,2,0
+Jerolldino Bergraaf,NED,FW,Excelsior,19-171,2006.0,4.9,2,2,0,2,0,1,6,16.7,5,5,0,5,2,4,4,0
+Daniel Bielica,POL,GK,NAC Breda,26-237,1999.0,16.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,13,1
+Adrian Blake,ENG,"FW,MF",Utrecht,20-161,2005.0,9.5,3,2,2,0,1,1,6,16.7,5,2,0,2,2,5,4,0
+Sil Blokhuis,NED,MF,Heracles Almelo,17-280,2008.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Thijmen Blokzijl,NED,DF,Groningen,20-301,2005.0,17.0,18,11,9,9,0,8,12,66.7,4,18,14,4,17,35,72,1
+Myron Boadu,NED,FW,PSV Eindhoven,24-343,2001.0,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Paweł Bochniewicz,POL,FW,Heerenveen,29-327,1996.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Ruben van Bommel,NED,FW,PSV Eindhoven,21-142,2004.0,4.2,10,8,4,3,3,5,6,83.3,1,1,0,1,6,16,9,0
+Kasper Boogaard,NED,MF,AZ Alkmaar,19-328,2006.0,0.7,0,0,0,0,0,0,0,,0,2,0,2,2,2,1,1
+Taylor Booth,USA,FW,Twente,24-206,2001.0,3.9,11,7,4,7,0,7,10,70.0,3,8,1,7,1,12,3,0
+Zach Booth,USA,MF,Excelsior,21-309,2004.0,1.2,1,0,1,0,0,0,0,,0,1,0,1,0,1,0,0
+Gonçalo Borges,POR,FW,Feyenoord,24-269,2001.0,2.4,1,1,0,1,0,1,6,16.7,5,2,0,2,1,2,2,0
+Yvandro Borges Sanches,LUX,"FW,MF",Heracles Almelo,21-213,2004.0,5.8,13,8,9,4,0,10,15,66.7,5,3,0,3,0,13,7,0
+Jordy Bos,AUS,DF,Feyenoord,23-055,2002.0,8.1,33,23,15,13,5,13,19,68.4,6,17,3,14,8,41,25,1
+Rayane Bounida,BEL,"FW,MF",Ajax,19-295,2006.0,1.5,4,1,2,0,2,2,5,40.0,3,1,1,0,0,4,0,1
+Aaron Bouwman,NED,DF,Ajax,18-117,2007.0,4.0,5,3,3,2,0,2,4,50.0,2,6,4,2,3,8,24,1
+Wassim Bouziane,NED,"DF,FW",AZ Alkmaar,19-001,2006.0,0.7,2,0,1,0,1,1,2,50.0,1,0,0,0,0,2,1,0
+Can Bozdogan,GER,MF,Utrecht,24-262,2001.0,1.9,4,0,2,1,1,2,3,66.7,1,2,1,1,0,4,3,1
+Mattijs Branderhorst,NED,GK,Fortuna Sittard,31-357,1993.0,17.0,2,1,2,0,0,2,3,66.7,1,0,0,0,0,2,8,2
+Oliver Braude,NOR,DF,Heerenveen,21-305,2004.0,15.5,32,20,14,15,3,13,30,43.3,17,17,5,12,11,43,47,1
+Jakob Breum,DEN,MF,Go Ahead Eag,22-036,2003.0,7.3,2,2,0,1,1,2,4,50.0,2,7,3,4,3,5,4,0
+Philip Brittijn,NED,"MF,DF",Fortuna Sittard,21-258,2004.0,13.6,42,27,26,11,5,21,37,56.8,16,20,9,11,15,57,26,1
+Ilias Bronkhorst,NED,DF,Excelsior,28-227,1997.0,13.4,23,14,16,5,2,11,21,52.4,10,10,4,6,13,36,53,1
+Michael Brouwer,NED,GK,Utrecht,32-336,1993.0,1.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Patrick Brouwer,NED,MF,Telstar,24-279,2001.0,14.8,21,13,13,5,3,11,26,42.3,15,13,2,11,9,30,13,0
+Luuk Brouwers,NED,MF,Heerenveen,27-234,1998.0,14.6,30,17,8,14,8,10,24,41.7,14,7,0,7,9,39,23,1
+Max Bruns,NED,DF,Twente,23-047,2002.0,7.5,10,7,4,6,0,4,5,80.0,1,12,7,5,6,16,32,0
+Thomas Bruns,NED,MF,Heracles Almelo,33-350,1992.0,8.0,16,6,5,6,5,9,16,56.3,7,8,0,8,6,22,14,0
+Charles-Andréas Brym,CAN,FW,NAC Breda,27-137,1998.0,4.8,3,0,0,2,1,2,8,25.0,6,4,1,3,5,8,3,0
+Thomas Buitink,NED,FW,Zwolle,25-192,2000.0,0.8,1,1,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0
+Nordin Bukala,NED,MF,Volendam,20-096,2005.0,14.8,43,25,22,18,3,19,34,55.9,15,33,5,28,21,64,23,3
+Zico Buurmeester,NED,MF,AZ Alkmaar,23-199,2002.0,0.4,1,0,0,1,0,0,0,,0,1,0,1,0,1,0,0
+Zico Buurmeester,NED,MF,Zwolle,23-199,2002.0,4.1,7,3,4,2,1,4,8,50.0,4,5,2,3,4,11,4,1
+Jayden Candelaria,CUW,"DF,FW",NAC Breda,21-296,2004.0,0.3,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0
+Adam Carlén,SWE,MF,Excelsior,25-179,2000.0,12.1,31,19,14,15,2,13,26,50.0,13,22,8,14,8,39,36,0
+Yoann Cathline,FRA,"FW,MF",Utrecht,23-154,2002.0,6.2,8,7,4,3,1,3,7,42.9,4,7,0,7,3,11,5,0
+Mateo Chávez,MEX,DF,AZ Alkmaar,21-225,2004.0,4.0,25,15,11,13,1,10,18,55.6,8,3,0,3,5,30,16,0
+Tjaronn Chery,SUR,"MF,FW",NEC Nijmegen,37-202,1988.0,14.9,7,2,2,3,2,5,12,41.7,7,7,2,5,2,9,2,0
+Jordy Clasie,NED,MF,AZ Alkmaar,34-179,1991.0,5.9,12,9,5,5,2,3,7,42.9,4,4,2,2,3,15,14,1
+Pelle Clement,NED,MF,Sparta R'dam,29-218,1996.0,9.4,11,6,4,2,5,8,26,30.8,18,17,6,11,5,16,21,0
+Gonzalo Crettaz,ARG,GK,NEC Nijmegen,25-298,2000.0,17.0,4,2,4,0,0,4,6,66.7,2,0,0,0,0,4,22,3
+Vito van Crooij,NED,"MF,FW",NEC Nijmegen,29-328,1996.0,2.8,2,2,1,1,0,1,2,50.0,1,3,0,3,0,2,5,0
+Robin van Cruijsen,,MF,Volendam,,,6.4,4,2,1,2,1,2,6,33.3,4,2,1,1,3,7,15,0
+Ro-Zangelo Daal,NED,FW,AZ Alkmaar,21-316,2004.0,5.6,14,8,8,4,2,6,12,50.0,6,3,0,3,1,15,4,1
+Jasper Dahlhaus,NED,DF,Fortuna Sittard,24-026,2001.0,14.1,33,16,16,14,3,17,32,53.1,15,18,3,15,35,68,64,2
+Brynjolfur Darri Willumsson,ISL,FW,Groningen,25-133,2000.0,8.5,5,3,1,3,1,3,6,50.0,3,7,3,4,1,6,3,0
+Eli Dasa,ISR,DF,NEC Nijmegen,33-020,1992.0,9.2,10,7,5,4,1,7,9,77.8,2,9,1,8,8,18,22,2
+Jari De Busser,BEL,GK,Go Ahead Eag,26-063,1999.0,17.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,12,2
+Mats Deijl,NED,DF,Go Ahead Eag,28-161,1997.0,16.5,22,19,10,10,2,13,18,72.2,5,20,13,7,9,31,55,0
+Maxim Dekker,NED,DF,AZ Alkmaar,21-246,2004.0,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Emirhan Demircan,TUR,"FW,MF",Utrecht,20-337,2005.0,1.1,2,2,1,1,0,1,1,100.0,0,1,0,1,1,3,0,0
+Thomas van den Belt,NED,MF,Twente,24-188,2001.0,11.7,23,15,9,11,3,14,19,73.7,5,12,1,11,13,36,19,0
+Joël van den Berg,NED,MF,PSV Eindhoven,18-315,2007.0,0.2,3,2,2,1,0,1,2,50.0,1,0,0,0,1,4,0,0
+Damian van der Haar,NED,DF,Zwolle,21-341,2004.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0
+Mike van der Hoorn,NED,DF,Utrecht,33-069,1992.0,10.9,11,5,6,5,0,8,13,61.5,5,13,11,2,17,28,70,1
+Djevencio van der Kust,SUR,DF,Heracles Almelo,24-237,2001.0,6.2,14,10,11,2,1,7,15,46.7,8,10,5,5,5,19,27,0
+David van der Werff,NED,"FW,MF",Groningen,21-114,2004.0,8.9,20,10,6,7,7,9,17,52.9,8,8,0,8,6,26,8,0
+Anthony Descotte,BEL,"FW,MF",Volendam,22-142,2003.0,3.5,4,2,3,1,0,3,4,75.0,1,0,0,0,0,4,0,0
+Sergiño Dest,USA,DF,PSV Eindhoven,25-050,2000.0,15.5,36,22,14,18,4,22,33,66.7,11,14,5,9,10,46,22,1
+Gaoussou Diarra,MLI,"FW,MF",Feyenoord,23-032,2002.0,1.8,3,3,1,2,0,2,2,100.0,0,2,0,2,1,4,2,0
+Matisse Didden,BEL,DF,Utrecht,24-076,2001.0,7.6,6,2,4,2,0,2,6,33.3,4,12,8,4,7,13,51,2
+Elijah Dijkstra,NED,DF,AZ Alkmaar,19-140,2006.0,3.2,5,2,3,2,0,3,8,37.5,5,3,0,3,3,8,9,1
+Julius Dirksen,NED,"DF,MF",Go Ahead Eag,22-324,2003.0,0.6,0,0,0,0,0,0,0,,0,3,2,1,3,3,5,0
+Kasper Dolberg,DEN,FW,Ajax,28-078,1997.0,3.6,1,1,1,0,0,0,1,0.0,1,2,0,2,2,3,2,0
+Yoon Doyong,KOR,FW,Excelsior,19-056,2006.0,1.1,2,1,2,0,0,1,3,33.3,2,2,0,2,2,4,2,0
+Couhaib Driouech,MAR,"FW,MF",PSV Eindhoven,23-250,2002.0,3.9,7,5,5,0,2,4,7,57.1,3,2,0,2,1,8,3,2
+Joel Drommel,NED,GK,Sparta R'dam,29-037,1996.0,17.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,11,2
+Lance Duijvestijn,NED,MF,Sparta R'dam,26-342,1999.0,7.7,19,15,7,7,5,5,20,25.0,15,6,2,4,3,22,17,2
+Mike van Duinen,NED,FW,Excelsior,34-047,1991.0,4.5,6,5,1,5,0,4,6,66.7,2,6,1,5,1,7,7,0
+Kiano Dyer,ENG,"MF,FW",Volendam,19-032,2006.0,0.3,2,1,1,1,0,1,1,100.0,0,0,0,0,0,2,1,0
+Oliver Edvardsen,NOR,FW,Ajax,26-279,1999.0,5.6,6,5,3,2,1,2,7,28.6,5,6,0,6,3,9,7,0
+Victor Edvardsen,SWE,"FW,MF",Go Ahead Eag,29-343,1996.0,7.8,5,3,0,2,3,4,5,80.0,1,2,1,1,0,5,2,0
+Lushendry Edward Martes,NED,DF,Sparta R'dam,17-231,2008.0,0.5,2,1,0,2,0,1,1,100.0,0,1,1,0,0,2,3,0
+Espen van Ee,NED,MF,Heerenveen,22-171,2003.0,0.6,3,0,0,3,0,2,2,100.0,0,1,0,1,0,3,2,0
+Mike Eerdhuijzen,NED,DF,Utrecht,25-163,2000.0,1.6,3,2,1,2,0,1,1,100.0,0,3,3,0,1,4,8,0
+Mats Egbring,NED,"DF,MF",Heerenveen,19-097,2006.0,0.4,1,1,0,1,0,1,1,100.0,0,1,0,1,0,1,3,0
+Nils Eggens,NED,"MF,FW",Groningen,20-259,2005.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Remi van Ekeris,NED,MF,Telstar,23-091,2002.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Noam Emeran,FRA,"DF,MF",Groningen,23-090,2002.0,0.3,2,1,2,0,0,1,1,100.0,0,1,0,1,1,3,0,0
+Mario Engels,GER,"MF,FW",Heracles Almelo,32-062,1993.0,4.7,3,2,2,1,0,1,3,33.3,2,0,0,0,1,4,0,0
+Alonzo Engwanda,BEL,MF,Utrecht,22-330,2003.0,16.0,46,25,18,25,3,16,26,61.5,10,22,8,14,22,68,46,2
+Silvinho Esajas,SUR,MF,Volendam,23-168,2002.0,0.8,0,0,0,0,0,0,1,0.0,1,2,2,0,0,0,3,0
+Jan Faberski,POL,FW,Zwolle,19-245,2006.0,4.4,5,2,3,1,1,2,6,33.3,4,8,0,8,1,6,2,0
+Derensili Fernandes,NED,FW,Excelsior,24-209,2001.0,12.7,11,9,4,4,3,8,17,47.1,9,7,0,7,5,16,10,0
+Noah Fernandez,BEL,"MF,FW",PSV Eindhoven,17-348,2008.0,0.2,1,0,0,1,0,0,1,0.0,1,2,0,2,0,1,0,0
+Nick Fichtinger,NED,MF,Zwolle,21-261,2004.0,3.3,16,12,5,10,1,7,13,53.8,6,7,3,4,8,24,13,0
+Kian Fitz-Jim,NED,MF,Ajax,22-171,2003.0,3.3,9,7,5,4,0,4,9,44.4,5,3,0,3,13,22,5,1
+Ryan Flamingo,NED,DF,PSV Eindhoven,22-357,2002.0,8.4,11,7,8,3,0,9,14,64.3,5,13,10,3,6,17,61,1
+Sherel Floranus,CUW,DF,Zwolle,27-122,1998.0,16.4,14,5,8,4,2,11,27,40.7,16,15,3,12,28,42,64,0
+Deveron Fonville,CUW,DF,NEC Nijmegen,22-221,2003.0,4.1,8,5,4,3,1,5,7,71.4,2,3,1,2,6,14,22,0
+Ryan Fosso,SUI,MF,Fortuna Sittard,23-189,2002.0,16.8,38,23,16,17,5,18,31,58.1,13,21,6,15,26,64,27,1
+Anton Gaaei,DEN,DF,Ajax,23-034,2002.0,7.8,6,6,5,0,1,5,8,62.5,3,7,2,5,8,14,18,0
+Jadiel Pereira da Gama,NED,MF,Zwolle,16-008,2009.0,1.1,1,0,0,1,0,0,2,0.0,2,2,1,1,4,5,3,0
+Anselmo García MacNulty,IRL,DF,Zwolle,22-307,2003.0,15.8,22,11,17,5,0,13,18,72.2,5,20,11,9,13,35,89,0
+Yarek Gasiorowski,ESP,DF,PSV Eindhoven,20-345,2005.0,14.0,14,8,7,6,1,8,10,80.0,2,28,14,14,23,37,74,2
+Stijn van Gassel,NED,GK,Excelsior,29-066,1996.0,13.3,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,10,0
+Moussa Gbemou,BEL,MF,Fortuna Sittard,18-105,2007.0,0.1,1,1,0,1,0,1,1,100.0,0,1,1,0,0,1,2,0
+Brahim Ghalidi,BEL,"FW,MF",NAC Breda,20-326,2005.0,0.8,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0
+Tristan van Gilst,NED,"FW,MF",Heracles Almelo,22-308,2003.0,7.5,4,4,1,3,0,2,4,50.0,2,10,1,9,4,8,14,0
+Paul Gladon,NED,"FW,MF",Fortuna Sittard,33-280,1992.0,6.1,2,2,0,2,0,1,5,20.0,4,2,0,2,0,2,8,0
+Oscar Gloukh,ISR,"MF,FW",Ajax,21-266,2004.0,12.1,20,10,6,11,3,9,19,47.4,10,3,0,3,1,21,3,0
+Mika Godts,BEL,"FW,MF",Ajax,20-199,2005.0,13.1,11,4,4,5,2,4,10,40.0,6,17,2,15,6,17,4,0
+Wouter Goes,NED,DF,AZ Alkmaar,21-196,2004.0,14.4,18,10,12,6,0,7,12,58.3,5,24,15,9,20,38,52,0
+Roberto González,ESP,MF,NEC Nijmegen,24-351,2001.0,0.9,2,2,1,1,0,0,2,0.0,2,1,0,1,0,2,0,0
+Tristan Gooijer,NED,DF,Zwolle,21-112,2004.0,5.2,7,3,3,3,1,3,3,100.0,0,11,6,5,5,12,28,0
+Kenzo Goudmijn,NED,"MF,FW",Go Ahead Eag,24-005,2001.0,6.8,10,5,8,2,0,3,14,21.4,11,9,1,8,2,12,3,0
+Tom de Graaff,NED,GK,Zwolle,21-013,2004.0,15.0,2,1,2,0,0,1,2,50.0,1,0,0,0,0,2,8,3
+Simon Graves Jensen,DEN,DF,Zwolle,26-215,1999.0,16.4,13,9,11,2,0,7,12,58.3,5,27,21,6,18,31,139,4
+Leo Greiml,AUT,DF,NAC Breda,24-173,2001.0,6.5,14,10,10,4,0,7,7,100.0,0,13,10,3,4,18,44,0
+Nesto Groen,NED,FW,Excelsior,21-154,2004.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Eser Gürbüz,NED,FW,Heerenveen,18-292,2007.0,2.8,4,2,2,0,2,2,2,100.0,0,2,0,2,0,4,1,0
+Jonathan de Guzmán,NED,"MF,FW",Sparta R'dam,38-101,1987.0,0.9,4,2,0,3,1,2,2,100.0,0,0,0,0,0,4,3,0
+Milan de Haan,NED,"MF,FW",Volendam,22-033,2003.0,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0
+Anis Hadj Moussa,ALG,FW,Feyenoord,23-315,2002.0,13.9,14,9,4,5,5,9,22,40.9,13,6,0,6,3,17,9,0
+Sebastiaan Hagedoorn,NED,"MF,FW",Telstar,21-023,2004.0,0.9,2,1,0,1,1,1,1,100.0,0,0,0,0,0,2,0,0
+Sébastien Haller,CIV,FW,Utrecht,31-184,1994.0,7.5,7,3,1,4,2,2,7,28.6,5,5,1,4,4,11,4,0
+Mo Hamdaoui,NED,"MF,DF",Telstar,32-196,1993.0,0.7,3,1,2,1,0,1,3,33.3,2,0,0,0,0,3,2,0
+Noa El Hamdaoui,,MF,Excelsior,,,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Jeff Hardeveld,NED,DF,Telstar,30-299,1995.0,16.1,37,21,27,8,2,16,31,51.6,15,22,10,12,14,51,70,1
+Lennard Hartjes,NED,MF,Excelsior,22-260,2003.0,2.5,4,2,2,2,0,2,3,66.7,1,2,0,2,6,10,4,0
+Stan Henderikx,NED,DF,Excelsior,22-168,2003.0,4.6,8,5,5,3,0,4,7,57.1,3,3,1,2,12,20,19,0
+Lucas Vennegoor of Hesselink,NED,FW,Twente,19-284,2006.0,0.6,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Soufiane Hetli,NED,"FW,MF",Telstar,24-207,2001.0,11.3,15,12,6,5,4,11,20,55.0,9,5,0,5,5,20,7,2
+Rio Hillen,NED,DF,NAC Breda,22-293,2003.0,14.3,29,18,17,12,0,15,20,75.0,5,25,9,16,17,46,78,1
+Mark Hoekstra,NED,"MF,FW",Groningen,19-316,2006.0,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Tijmen Holla,,GK,Excelsior,,,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Lewis Holtby,GER,"MF,FW",NAC Breda,35-096,1990.0,11.9,29,18,12,15,2,11,21,52.4,10,17,3,14,4,33,23,2
+Sydney van Hooijdonk,NED,FW,NAC Breda,25-320,2000.0,11.6,13,6,3,7,3,5,5,100.0,0,4,0,4,1,14,4,0
+Nikolai Hopland,NOR,DF,Heerenveen,21-152,2004.0,4.5,4,2,3,1,0,1,6,16.7,5,3,0,3,5,9,27,1
+Siebe Horemans,BEL,DF,Utrecht,27-204,1998.0,15.6,31,15,19,11,1,19,38,50.0,19,13,3,10,17,48,56,1
+Jizz Hornkamp,NED,FW,Heracles Almelo,27-291,1998.0,12.3,15,10,4,7,4,6,10,60.0,4,8,1,7,4,19,11,0
+Ajdin Hrustic,AUS,MF,Heracles Almelo,29-171,1996.0,14.1,26,15,7,11,8,17,28,60.7,11,12,6,6,7,33,12,4
+Justin Hubner,IDN,DF,Fortuna Sittard,22-100,2003.0,4.5,10,9,5,3,2,8,9,88.9,1,9,4,5,9,19,28,0
+Joël Ideho,NED,"FW,MF",Volendam,22-159,2003.0,5.8,9,5,3,5,1,3,9,33.3,6,10,0,10,2,11,5,1
+Younes Taha El Idrissi,MAR,"MF,FW",Groningen,23-026,2002.0,15.3,30,19,11,8,11,13,30,43.3,17,17,0,17,5,35,5,0
+Mohammed Ihattaren,NED,"FW,MF",Fortuna Sittard,23-314,2002.0,11.8,6,2,2,2,2,4,9,44.4,5,12,0,12,3,9,5,0
+Hwang In-beom,KOR,MF,Feyenoord,29-094,1996.0,2.8,8,4,2,5,1,2,5,40.0,3,4,0,4,4,12,8,2
+Zidane Iqbal,IRQ,MF,Utrecht,22-240,2003.0,2.8,9,3,1,6,2,3,5,60.0,2,2,1,1,4,13,1,0
+Ko Itakura,JPN,DF,Ajax,28-330,1997.0,9.8,9,7,6,3,0,6,10,60.0,4,21,12,9,12,21,70,1
+Dean James,IDN,DF,Go Ahead Eag,25-237,2000.0,12.5,18,12,9,7,2,10,20,50.0,10,3,1,2,12,30,42,0
+Dies Janse,NED,DF,Groningen,19-340,2006.0,15.0,16,11,10,3,3,7,9,77.8,2,14,8,6,8,24,63,0
+Timo Jansink,NED,GK,Heracles Almelo,22-282,2003.0,9.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,2
+Simon Janssen,NED,DF,Excelsior,25-089,2000.0,1.4,1,1,1,0,0,0,2,0.0,2,2,0,2,1,2,2,0
+Vitezslav Jaros,CZE,GK,Ajax,24-153,2001.0,13.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,1
+Malcolm Jeng,SWE,DF,Feyenoord,20-289,2005.0,0.5,1,0,1,0,0,0,0,,0,1,0,1,2,3,2,0
+Isak Jensen,DEN,FW,AZ Alkmaar,22-000,2003.0,9.2,8,5,1,6,1,5,10,50.0,5,11,0,11,5,13,13,0
+Victor Jensen,DEN,"MF,FW",Utrecht,25-318,2000.0,5.3,12,6,4,7,1,5,8,62.5,3,3,0,3,3,15,2,0
+Miliano Jonathans,IDN,"FW,MF",Utrecht,21-262,2004.0,3.0,2,1,0,2,0,1,3,33.3,2,2,0,2,0,2,5,0
+Tika de Jonge,NED,MF,Groningen,22-287,2003.0,14.5,37,15,10,23,4,22,45,48.9,23,15,1,14,13,50,21,3
+Mauro Júnior,BRA,"MF,DF",PSV Eindhoven,26-231,1999.0,11.1,26,19,14,8,4,10,24,41.7,14,21,4,17,18,44,24,4
+Hidde Jurjus,NED,GK,Groningen,31-317,1994.0,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Youssef El Kachati,NED,"FW,MF",NEC Nijmegen,26-023,1999.0,3.1,2,1,0,1,1,0,0,,0,1,0,1,0,2,3,0
+Jochem van de Kamp,NED,"MF,DF",Telstar,22-051,2003.0,13.1,25,13,8,13,4,12,25,48.0,13,11,4,7,14,39,25,0
+Ahmetcan Kaplan,TUR,DF,NEC Nijmegen,22-341,2003.0,11.8,32,19,17,13,2,19,31,61.3,12,14,8,6,10,42,73,0
+Souffian El Karouani,MAR,DF,Utrecht,25-065,2000.0,16.0,42,25,26,11,5,23,38,60.5,15,20,4,16,14,56,33,2
+Denso Kasius,NED,DF,AZ Alkmaar,23-078,2002.0,10.8,13,6,9,4,0,5,11,45.5,6,12,5,7,6,19,27,1
+Fabian de Keijzer,NED,GK,Heracles Almelo,25-227,2000.0,8.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,7,2
+Boy Kemper,NED,DF,NAC Breda,26-185,1999.0,16.8,29,14,14,12,3,16,25,64.0,9,24,8,16,10,39,44,0
+Marko Kerkez,SRB,"FW,MF",Fortuna Sittard,25-180,2000.0,0.1,1,0,1,0,0,1,2,50.0,1,1,1,0,0,1,3,0
+Sam Kersten,NED,DF,Heerenveen,27-327,1998.0,12.4,12,9,6,4,2,4,7,57.1,3,19,5,14,17,29,78,3
+Joshua Kitolano,NOR,MF,Sparta R'dam,24-142,2001.0,13.6,23,10,10,11,2,5,12,41.7,7,18,7,11,8,31,23,2
+Mathias Kjølø,NOR,MF,Twente,24-179,2001.0,2.4,5,4,1,1,3,2,4,50.0,2,4,0,4,3,8,10,0
+Davy Klaassen,NED,MF,Ajax,32-305,1993.0,10.2,25,17,9,11,5,12,19,63.2,7,9,4,5,7,32,10,0
+Bernt Klaverboer,NED,GK,Heerenveen,20-088,2005.0,13.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,4
+Mike Kleijn,NED,DF,Sparta R'dam,20-317,2005.0,3.1,13,8,8,3,2,6,6,100.0,0,1,0,1,6,19,9,0
+Ronald Koeman Jr.,NED,GK,Telstar,30-214,1995.0,17.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,10,2
+Ozan Kökcü,AZE,"FW,MF",Volendam,27-127,1998.0,8.3,7,2,5,1,1,6,6,100.0,0,4,2,2,5,12,11,0
+Don-Angelo Konadu,NED,"FW,DF",Ajax,19-234,2006.0,0.7,2,2,1,1,0,1,1,100.0,0,1,0,1,0,2,4,0
+Terence Kongolo,NED,DF,NAC Breda,31-312,1994.0,2.1,5,3,5,0,0,5,6,83.3,1,1,0,1,1,6,11,0
+Peer Koopmeiners,NED,"MF,DF",AZ Alkmaar,25-233,2000.0,10.6,31,19,15,11,5,14,27,51.9,13,16,8,8,8,39,31,0
+Koen Kostons,NED,FW,Zwolle,26-096,1999.0,15.7,11,6,5,5,1,4,9,44.4,5,12,1,11,3,14,11,0
+Devon Koswal,NED,DF,Telstar,22-124,2003.0,10.9,16,11,10,5,1,12,17,70.6,5,14,9,5,4,20,55,2
+Matej Kovar,CZE,GK,PSV Eindhoven,25-220,2000.0,17.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,12,4
+Thijs Kraaijeveld,NED,"DF,MF",Feyenoord,18-234,2007.0,0.7,2,2,2,0,0,2,2,100.0,0,1,1,0,0,2,4,0
+Joris Kramer,NED,DF,Go Ahead Eag,29-143,1996.0,17.0,10,5,1,6,3,5,11,45.5,6,26,20,6,18,28,115,1
+Bas Kuipers,NED,DF,Twente,31-128,1994.0,1.3,4,3,1,3,0,2,2,100.0,0,3,2,1,2,6,6,0
+Luka Kulenović,BIH,FW,Heracles Almelo,26-085,1999.0,9.2,4,3,0,3,1,2,9,22.2,7,5,0,5,3,7,11,0
+Brandley Kuwas,CUW,"FW,MF",Volendam,33-095,1992.0,12.1,12,7,6,5,1,6,17,35.3,11,12,2,10,3,15,10,1
+Dave Kwakman,NED,"MF,DF",AZ Alkmaar,21-138,2004.0,1.2,6,3,3,3,0,1,5,20.0,4,1,0,1,1,7,5,0
+Sam de Laat,NED,DF,NEC Nijmegen,19-194,2006.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+Samir Lagsir,NED,"FW,MF",Zwolle,22-217,2003.0,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Sam Lammers,NED,FW,Twente,28-237,1997.0,3.3,2,1,2,0,0,2,3,66.7,1,3,1,2,0,2,1,0
+Kostas Lamprou,GRE,GK,NAC Breda,34-096,1991.0,1.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,1
+Tygo Land,NED,"MF,FW",Groningen,19-346,2006.0,2.6,9,6,1,3,5,6,8,75.0,2,1,0,1,3,12,2,0
+Tygo Land,NED,MF,PSV Eindhoven,19-346,2006.0,0.1,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0
+Cyle Larin,CAN,"FW,MF",Feyenoord,30-250,1995.0,1.4,5,3,3,1,1,2,2,100.0,0,1,1,0,0,5,2,0
+Tobias Lauritsen,NOR,FW,Sparta R'dam,28-115,1997.0,17.0,11,9,3,4,4,3,12,25.0,9,8,2,6,5,16,27,0
+Noé Lebreton,FRA,"MF,DF",NEC Nijmegen,21-304,2004.0,1.6,2,0,0,2,0,1,2,50.0,1,2,0,2,2,4,2,0
+Adil Lechkar,NED,"DF,MF",Telstar,24-112,2001.0,2.0,7,5,4,3,0,3,6,50.0,3,3,1,2,4,11,10,0
+Clint Leemans,NED,MF,NAC Breda,30-099,1995.0,4.7,9,4,5,3,1,3,5,60.0,2,4,1,3,4,13,6,0
+Yannick Leliendal,SUR,DF,Volendam,23-244,2002.0,16.5,41,21,33,5,3,19,37,51.4,18,21,5,16,24,65,66,2
+Stav Lemkin,ISR,DF,Twente,22-265,2003.0,5.9,3,3,0,2,1,1,2,50.0,1,8,5,3,2,5,29,1
+Bryan Limbombe,BEL,"FW,MF",Heracles Almelo,24-223,2001.0,13.5,9,5,7,2,0,6,15,40.0,9,5,2,3,4,13,17,0
+Dimitris Limnios,GRE,"FW,DF",Fortuna Sittard,27-210,1998.0,12.4,18,7,5,11,2,6,17,35.3,11,6,2,4,4,22,22,0
+Marcus Linday,SWE,MF,Heerenveen,22-204,2003.0,10.3,35,18,12,19,4,16,25,64.0,9,13,2,11,6,41,17,0
+Bryan Linssen,NED,"FW,MF",NEC Nijmegen,35-076,1990.0,12.8,20,17,4,9,7,8,19,42.1,11,11,1,10,6,26,10,0
+Evert Linthorst,NED,MF,Go Ahead Eag,25-295,2000.0,9.3,7,4,2,3,2,4,9,44.4,5,9,5,4,11,18,22,1
+Justin Lonwijk,SUR,"MF,FW",Fortuna Sittard,26-002,1999.0,10.0,21,15,9,9,3,11,23,47.8,12,18,2,16,11,32,18,0
+Jordan Lotomba,SUI,DF,Feyenoord,27-085,1998.0,5.8,9,3,3,5,1,7,10,70.0,3,5,2,3,6,15,18,1
+Sayfallah Ltaief,TUN,"FW,MF",Sparta R'dam,25-245,2000.0,5.6,12,4,7,4,1,7,14,50.0,7,6,0,6,2,14,3,0
+Boyd Lucassen,NED,"DF,MF",NAC Breda,27-175,1998.0,9.7,12,10,5,5,2,7,16,43.8,9,14,5,9,6,18,37,0
+Younes Jaber el Maftahi,NED,FW,Sparta R'dam,18-073,2007.0,0.4,2,1,2,0,0,2,2,100.0,0,0,0,0,0,2,2,0
+Enes Mahmutovic,LUX,DF,NAC Breda,28-215,1997.0,4.1,0,0,0,0,0,0,1,0.0,1,2,2,0,4,4,32,1
+Dion Malone,SUR,DF,Telstar,36-313,1989.0,2.2,2,1,2,0,0,1,1,100.0,0,4,2,2,4,6,12,1
+Dennis Man,ROU,FW,PSV Eindhoven,27-119,1998.0,8.2,7,6,3,3,1,3,11,27.3,8,9,1,8,2,9,6,0
+Richonell Margaret,SUR,FW,Go Ahead Eag,25-107,2000.0,8.6,17,6,7,8,2,4,12,33.3,8,5,0,5,6,23,5,0
+Iván Márquez,ESP,DF,Fortuna Sittard,31-197,1994.0,15.1,20,12,17,3,0,12,14,85.7,2,22,16,6,14,34,127,1
+Nolan Martens,BEL,DF,Excelsior,21-169,2004.0,4.5,10,8,6,3,1,6,10,60.0,4,8,4,4,2,12,20,0
+Bruno Martins Indi,NED,DF,Sparta R'dam,33-318,1992.0,12.0,8,7,4,4,0,1,2,50.0,1,18,12,6,14,22,86,0
+Dylan Mbayo,BEL,"FW,MF",Zwolle,24-073,2001.0,5.8,1,0,1,0,0,0,4,0.0,4,4,0,4,1,2,2,0
+Xavier Mbuyamba,NED,"DF,MF",Volendam,23-357,2001.0,7.4,15,7,13,2,0,7,14,50.0,7,15,11,4,6,21,48,0
+James McConnell,ENG,MF,Ajax,21-101,2004.0,1.2,5,2,3,1,1,2,2,100.0,0,3,2,1,1,6,5,1
+Mexx Meerdink,NED,FW,AZ Alkmaar,22-152,2003.0,6.2,3,1,0,3,0,2,4,50.0,2,3,0,3,0,3,5,1
+Ringo Meerveld,NED,"MF,FW",Heerenveen,25-002,2000.0,11.1,10,7,4,5,1,3,9,33.3,6,14,0,14,5,15,5,0
+Aaron Meijers,NED,"DF,FW",Volendam,38-056,1987.0,1.7,4,2,2,0,2,2,5,40.0,3,3,0,3,0,4,3,0
+Rick Meissen,NED,DF,Excelsior,23-302,2002.0,13.1,11,6,8,1,2,4,9,44.4,5,23,17,6,21,32,71,0
+Houboulang Mendes,GNB,"DF,FW",Fortuna Sittard,27-233,1998.0,1.0,3,2,2,1,0,2,3,66.7,1,0,0,0,0,3,6,0
+Rui Mendes,GER,FW,Groningen,26-043,1999.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Tyrique Mercera,CUW,DF,Groningen,22-004,2003.0,5.0,10,3,7,2,1,5,6,83.3,1,3,3,0,5,15,14,0
+Dylan Mertens,NED,MF,Telstar,30-156,1995.0,4.7,19,9,6,10,3,3,5,60.0,2,9,3,6,2,21,6,0
+Ivan Mesík,SVK,DF,Heracles Almelo,24-205,2001.0,15.9,25,18,17,8,0,12,16,75.0,4,20,11,9,10,35,97,1
+Melle Meulensteen,NED,"MF,DF",Go Ahead Eag,26-172,1999.0,14.5,24,15,12,12,0,12,26,46.2,14,21,10,11,25,49,52,1
+Edouard Michut,FRA,MF,Fortuna Sittard,22-294,2003.0,7.8,16,13,3,10,3,5,10,50.0,5,8,3,5,18,34,11,0
+Stijn Middendorp,,MF,Excelsior,,,2.2,5,4,3,2,0,3,5,60.0,2,5,1,4,3,8,8,0
+Sven Mijnans,NED,MF,AZ Alkmaar,25-289,2000.0,14.4,16,10,2,12,2,4,16,25.0,12,22,5,17,12,28,22,1
+David Min,NED,"FW,MF",Utrecht,26-183,1999.0,8.1,4,1,0,3,1,1,3,33.3,2,10,2,8,3,7,8,0
+Damon Mirani,NED,DF,Heracles Almelo,29-224,1996.0,16.8,16,9,12,4,0,7,13,53.8,6,27,20,7,17,33,127,2
+Virgil Misidjan,SUR,"DF,FW",NEC Nijmegen,32-152,1993.0,5.2,5,3,1,2,2,3,5,60.0,2,2,0,2,1,6,2,0
+Shunsuke Mito,JPN,FW,Sparta R'dam,23-086,2002.0,6.2,7,1,4,3,0,2,7,28.6,5,5,1,4,2,9,5,0
+Stefan Mitrović,SRB,FW,Excelsior,23-130,2002.0,2.9,2,1,1,1,0,1,2,50.0,1,2,0,2,2,4,2,0
+Jorthy Mokio,BEL,"MF,DF",Ajax,17-297,2008.0,3.4,10,5,4,3,3,6,10,60.0,4,5,2,3,3,13,14,1
+Jamiro Monteiro,CPV,MF,Zwolle,32-030,1993.0,10.7,33,19,18,12,3,15,27,55.6,12,17,3,14,9,42,6,0
+Raúl Moro,ESP,FW,Ajax,23-018,2002.0,6.2,6,2,1,5,0,3,9,33.3,6,2,0,2,4,10,2,1
+Robert Mühren,NED,"MF,FW",Volendam,36-219,1989.0,4.7,4,3,1,2,1,2,8,25.0,6,2,1,1,2,6,6,0
+Derry Murkin,ENG,"DF,FW",Utrecht,26-149,1999.0,2.9,4,0,3,0,1,1,2,50.0,1,1,0,1,0,4,10,0
+Chris Nadje,FRA,MF,Excelsior,24-131,2001.0,1.9,3,1,1,2,0,2,3,66.7,1,2,2,0,2,5,3,0
+Pharrel Nana Yaw Yiadom Nash,NED,MF,Ajax,17-319,2008.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Mohamed Nassoh,NED,"MF,FW",NAC Breda,22-331,2003.0,12.7,22,15,11,7,4,6,19,31.6,13,11,0,11,7,29,7,1
+Gerrit Nauber,GER,DF,Go Ahead Eag,33-254,1992.0,8.9,4,3,2,2,0,0,2,0.0,2,14,13,1,5,9,51,1
+Noah Naujoks,NED,MF,Excelsior,23-235,2002.0,10.4,25,12,6,13,6,12,26,46.2,14,14,3,11,15,40,17,0
+Darko Nejašmić,CRO,MF,NEC Nijmegen,26-332,1999.0,10.8,29,18,8,14,7,14,28,50.0,14,26,8,18,9,38,43,0
+Bart Nieuwkoop,NED,DF,Feyenoord,29-291,1996.0,5.1,17,13,5,9,3,12,16,75.0,4,6,1,5,7,24,29,1
+Ruud Nijstad,NED,DF,Twente,17-340,2008.0,5.5,2,1,2,0,0,1,1,100.0,0,5,2,3,3,5,23,0
+Kristian Nökkvi Hlynsson,ISL,MF,Twente,21-334,2004.0,13.8,19,15,6,12,1,8,15,53.3,7,8,3,5,6,25,7,0
+Andries Noppert,NED,GK,Heerenveen,31-260,1994.0,4.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,5,1
+Tyrese Noslin,CUW,DF,Telstar,23-103,2002.0,14.9,36,26,20,15,1,26,44,59.1,18,27,8,19,21,57,57,2
+Nigel Nwankwo,NED,"DF,MF",Telstar,27-141,1998.0,0.7,2,1,0,2,0,2,4,50.0,2,2,1,1,0,2,1,0
+Armando Obispo,CUW,DF,PSV Eindhoven,26-293,1999.0,2.5,1,0,0,1,0,1,1,100.0,0,1,0,1,2,3,14,0
+Denis Odoi,GHA,DF,NAC Breda,37-210,1988.0,3.5,5,2,1,3,1,2,4,50.0,2,2,0,2,5,10,15,0
+Aurelio Oehlers,NED,FW,Volendam,21-321,2004.0,10.5,5,3,3,1,1,2,6,33.3,4,5,0,5,3,8,9,0
+Kayne van Oevelen,NED,GK,Volendam,22-137,2003.0,17.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,10,2
+Guus Offerhaus,NED,"DF,MF",Telstar,24-354,2001.0,17.0,20,8,14,4,2,10,19,52.6,9,23,15,8,13,33,89,4
+Koki Ogawa,JPN,FW,NEC Nijmegen,28-137,1997.0,10.5,11,8,0,7,4,3,3,100.0,0,4,1,3,2,13,8,1
+Neville Ogidi Nwankwo,NED,DF,Telstar,23-076,2002.0,7.0,13,5,5,6,2,2,5,40.0,3,7,3,4,11,24,45,1
+Noah Ohio,NED,FW,Utrecht,22-341,2003.0,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Fredrik Oldrup Jensen,NOR,"DF,MF",NAC Breda,32-219,1993.0,3.1,2,2,2,0,0,1,2,50.0,1,1,1,0,6,8,11,0
+Lucas Oliveira Rosa,BRA,DF,Ajax,25-264,2000.0,9.8,18,11,11,6,1,13,19,68.4,6,15,11,4,16,34,46,1
+Basar Onal,TUR,"DF,FW",NEC Nijmegen,21-170,2004.0,10.2,15,11,5,5,5,7,18,38.9,11,5,1,4,7,22,6,0
+Thijs Oosting,NED,MF,Zwolle,25-235,2000.0,14.3,23,15,11,11,1,9,36,25.0,27,9,2,7,13,36,37,0
+Sami Ouaissa,NED,"DF,FW",NEC Nijmegen,21-082,2004.0,15.6,17,11,6,8,3,8,23,34.8,15,7,0,7,7,24,16,0
+Ayoub Ouarghi,NED,MF,Feyenoord,17-321,2008.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Rojendro Oudsten,SUR,"DF,MF",Telstar,18-041,2007.0,0.9,3,2,0,3,0,1,1,100.0,0,0,0,0,0,3,3,0
+Ayoub Oufkir,NED,"FW,MF",Sparta R'dam,19-353,2006.0,7.9,8,6,4,1,3,3,13,23.1,10,7,2,5,3,11,9,0
+Walid Ould-Chikh,MAR,"MF,FW",Heracles Almelo,26-047,1999.0,7.2,15,12,7,7,1,10,14,71.4,4,9,1,8,6,21,11,1
+Thomas Ouwejan,NED,DF,NEC Nijmegen,29-084,1996.0,4.9,10,6,3,5,2,4,5,80.0,1,4,3,1,3,13,11,0
+Joris van Overeem,NED,"MF,DF",Heerenveen,31-205,1994.0,17.0,30,20,12,13,5,17,29,58.6,12,15,3,12,19,49,46,2
+Tyrone Owusu,NED,MF,Telstar,26-293,1999.0,12.1,17,10,7,7,3,7,12,58.3,5,10,4,6,9,26,6,1
+Rome-Jayden Owusu-Oduro,NED,GK,AZ Alkmaar,21-174,2004.0,13.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,3
+Troy Parrott,IRL,FW,AZ Alkmaar,23-322,2002.0,9.7,10,4,4,4,2,3,11,27.3,8,8,1,7,2,12,5,0
+Remko Pasveer,NED,GK,Ajax,42-045,1983.0,4.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,2,2
+Weslley Patati,BRA,FW,AZ Alkmaar,22-083,2003.0,9.0,17,11,5,8,4,6,20,30.0,14,12,1,11,1,18,6,0
+Raul Paula,GER,"FW,MF",NAC Breda,21-332,2004.0,3.5,4,3,0,3,1,3,7,42.9,4,2,0,2,1,5,2,0
+Deron Payne,TRI,DF,Volendam,23-089,2002.0,10.1,30,20,16,6,8,17,21,81.0,4,17,7,10,9,39,26,0
+Marvin Peersman,BEL,DF,Groningen,34-316,1991.0,16.5,21,16,9,11,1,15,25,60.0,10,8,3,5,14,35,53,0
+Guilherme Peixoto,POR,DF,Twente,19-212,2006.0,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Alexandre Penetra,POR,DF,AZ Alkmaar,24-105,2001.0,16.0,18,13,13,4,1,14,19,73.7,5,17,12,5,11,29,93,0
+Ricardo Pepi,USA,FW,PSV Eindhoven,22-348,2003.0,7.7,1,0,1,0,0,0,2,0.0,2,8,1,7,1,2,7,1
+Brayann Pereira,FRA,DF,NEC Nijmegen,22-216,2003.0,7.4,18,13,10,6,2,11,16,68.8,5,9,3,6,7,25,27,2
+Ivan Perišić,CRO,FW,PSV Eindhoven,36-324,1989.0,12.0,18,12,11,5,2,13,30,43.3,17,15,0,15,12,30,18,0
+Kristoffer Peterson,SWE,"FW,MF",Fortuna Sittard,31-025,1994.0,10.2,8,2,5,1,2,4,14,28.6,10,7,0,7,3,11,8,0
+Hristiyan Petrov,BUL,DF,Heerenveen,23-182,2002.0,2.2,3,2,1,2,0,1,1,100.0,0,3,1,2,2,5,13,0
+Oscar Pettersson,SWE,"FW,MF",Go Ahead Eag,25-325,2000.0,1.8,0,0,0,0,0,0,2,0.0,2,1,0,1,2,2,1,0
+Ivo Pinto,POR,DF,Fortuna Sittard,35-350,1990.0,12.3,21,14,14,4,3,11,22,50.0,11,12,3,9,5,26,33,0
+Marko Pjaca,CRO,FW,Twente,30-231,1995.0,6.2,9,4,6,1,2,4,5,80.0,1,3,0,3,8,17,9,0
+Alex Plat,NED,MF,Volendam,27-322,1998.0,2.5,3,3,3,0,0,1,3,33.3,2,3,1,2,5,8,4,0
+Alassane Pléa,FRA,FW,PSV Eindhoven,32-288,1993.0,1.2,2,2,1,1,0,2,3,66.7,1,2,1,1,1,3,1,0
+Jan Plug,NED,DF,Feyenoord,20-265,2005.0,1.3,3,3,3,0,0,1,3,33.3,2,3,0,3,4,7,2,0
+Ernest Poku,NED,FW,AZ Alkmaar,21-329,2004.0,0.8,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0
+Wouter Prins,NED,DF,Groningen,21-320,2004.0,2.3,9,3,6,1,2,6,9,66.7,3,4,2,2,3,12,7,0
+Dirk Proper,NED,MF,NEC Nijmegen,23-302,2002.0,8.5,14,10,7,5,2,6,11,54.5,5,5,0,5,6,20,14,0
+Robin Pröpper,NED,DF,Twente,32-091,1993.0,15.1,25,14,19,5,1,15,23,65.2,8,21,14,7,13,38,86,1
+Teo Quintero,VEN,DF,Sparta R'dam,26-296,1999.0,11.4,26,13,13,10,3,15,21,71.4,6,30,17,13,13,39,77,1
+Calvin Raatsie,NED,GK,Excelsior,23-317,2002.0,2.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0
+Givairo Read,NED,DF,Feyenoord,19-204,2006.0,7.7,14,6,7,7,0,8,14,57.1,6,10,1,9,9,23,20,0
+Daan van Reeuwijk,,DF,NAC Breda,,,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Youri Regeer,NED,"MF,DF",Ajax,22-127,2003.0,9.6,31,18,19,10,2,18,22,81.8,4,22,5,17,15,46,40,0
+Gyan de Regt,NED,FW,Excelsior,23-131,2002.0,14.8,14,9,4,6,4,6,19,31.6,13,13,2,11,3,17,18,0
+Eliano Reijnders,IDN,FW,Zwolle,25-061,2000.0,0.5,2,2,1,0,1,0,1,0.0,1,0,0,0,0,2,0,0
+Jeff Reine-Adélaïde,FRA,MF,Heracles Almelo,27-340,1998.0,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Gabriel Reiziger,NED,MF,Zwolle,20-074,2005.0,0.7,1,1,0,1,0,1,1,100.0,0,2,0,2,3,4,0,0
+Marco Rente,GER,DF,Groningen,28-301,1997.0,11.9,21,15,12,7,2,13,25,52.0,12,11,1,10,15,36,49,0
+Stije Resink,NED,MF,Groningen,22-209,2003.0,17.0,41,25,16,16,9,27,44,61.4,17,32,7,25,18,59,31,1
+Pepijn Reulen,NED,"FW,DF",NAC Breda,17-205,2008.0,1.1,3,2,0,2,1,1,2,50.0,1,2,0,2,0,3,1,0
+Jermaine Rijssel,SUR,FW,Heerenveen,20-273,2005.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Maxence Rivera,FRA,FW,Heerenveen,23-207,2002.0,13.0,22,7,7,9,6,7,18,38.9,11,12,0,12,6,28,6,0
+Miguel Rodríguez,ESP,"FW,MF",Utrecht,22-238,2003.0,11.9,20,13,4,6,10,9,31,29.0,22,20,0,20,13,33,9,0
+Bart van Rooij,NED,DF,Twente,24-211,2001.0,16.7,37,23,17,14,6,19,33,57.6,14,22,6,16,7,44,58,1
+Kaj de Rooij,NED,"FW,MF",Zwolle,25-028,2000.0,15.4,16,6,6,6,4,5,11,45.5,6,13,0,13,4,20,8,0
+Nils Rossen,NED,MF,Telstar,20-144,2005.0,16.6,14,7,8,5,1,8,17,47.1,9,16,10,6,17,31,30,0
+Daan Rots,NED,"FW,MF",Twente,24-151,2001.0,11.9,28,17,12,10,6,19,41,46.3,22,18,1,17,4,32,9,0
+Mats Rots,NED,DF,Twente,19-287,2006.0,15.8,35,20,24,8,3,27,47,57.4,20,13,3,10,17,52,35,2
+Dylan Ruward,NED,FW,Zwolle,20-336,2005.0,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0
+Ibrahim Sadiq,GHA,FW,AZ Alkmaar,25-230,2000.0,4.5,3,3,2,1,0,1,5,20.0,4,4,1,3,2,5,7,0
+Ismael Saibari,MAR,MF,PSV Eindhoven,24-329,2001.0,14.0,24,14,9,11,4,10,19,52.6,9,22,1,21,7,31,6,3
+Yassir Salah Rahmouni,NED,MF,Go Ahead Eag,19-193,2006.0,8.1,18,10,7,8,3,4,5,80.0,1,6,4,2,2,20,22,0
+Anass Salah-Eddine,MAR,DF,PSV Eindhoven,23-339,2002.0,9.4,24,20,12,10,2,15,19,78.9,4,3,0,3,8,32,17,2
+Shurandy Sambo,CUW,DF,Sparta R'dam,24-126,2001.0,12.6,29,20,16,9,4,15,30,50.0,15,18,6,12,9,38,60,1
+Philippe Sandler,NED,DF,NEC Nijmegen,28-316,1997.0,9.4,9,6,5,4,0,5,7,71.4,2,5,2,3,10,19,43,1
+Kodai Sano,JPN,"MF,DF",NEC Nijmegen,22-089,2003.0,17.0,45,31,18,20,7,31,49,63.3,18,26,5,21,19,64,53,2
+Ayoni Santos,NED,MF,Sparta R'dam,20-158,2005.0,3.2,15,8,0,10,5,7,12,58.3,5,6,0,6,2,17,5,0
+Antonio Satriano,ITA,MF,Heracles Almelo,22-054,2003.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Leo Sauer,SVK,FW,Feyenoord,20-007,2005.0,11.1,10,4,5,2,3,6,17,35.3,11,6,0,6,2,12,13,0
+Yousri Sbai,NED,DF,NEC Nijmegen,21-137,2004.0,0.1,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0
+Jasper Schendelaar,NED,GK,Zwolle,25-112,2000.0,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Tristan Schenkhuizen,NED,MF,Fortuna Sittard,21-164,2004.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Sem Scheperman,NED,MF,Heracles Almelo,23-182,2002.0,6.1,22,11,7,11,4,5,10,50.0,5,19,14,5,3,25,23,0
+Jerdy Schouten,NED,"DF,MF",PSV Eindhoven,28-345,1997.0,16.3,24,15,16,6,2,8,14,57.1,6,22,7,15,31,55,44,2
+Lewis Schouten,NED,"MF,DF",Excelsior,21-322,2004.0,1.6,2,2,1,1,0,0,3,0.0,3,3,0,3,1,3,5,0
+Jorg Schreuders,NED,"FW,MF",Groningen,21-105,2004.0,15.0,24,18,9,10,5,16,24,66.7,8,15,0,15,6,30,8,0
+Jelani Seedorf,,FW,Sparta R'dam,,,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Václav Sejk,CZE,FW,Heerenveen,23-219,2002.0,5.2,7,4,1,4,2,1,4,25.0,3,4,0,4,1,8,4,0
+Mats Seuntjens,NED,"MF,FW",Groningen,33-250,1992.0,1.7,2,0,1,0,1,0,6,0.0,6,1,0,1,0,2,1,0
+Kento Shiogai,JPN,FW,NEC Nijmegen,20-272,2005.0,4.1,3,2,0,3,0,2,3,66.7,1,2,1,1,0,3,0,0
+Shola Shoretire,ENG,"FW,MF",Zwolle,21-324,2004.0,9.2,12,7,7,4,1,8,12,66.7,4,11,2,9,10,22,12,0
+Kaj Sierhuis,NED,"FW,MF",Fortuna Sittard,27-240,1998.0,8.6,4,2,1,3,0,2,4,50.0,2,7,1,6,3,7,7,0
+Oskar Siira Sivertsen,NOR,"FW,MF",Go Ahead Eag,21-311,2004.0,2.5,4,3,2,2,0,0,2,0.0,2,2,0,2,1,5,1,0
+Kiliann Sildillia,FRA,DF,PSV Eindhoven,23-221,2002.0,3.5,6,3,3,3,0,2,2,100.0,0,6,2,4,1,7,9,0
+Matej Sin,CZE,"FW,MF",AZ Alkmaar,21-204,2004.0,2.6,3,3,1,1,1,2,4,50.0,2,3,2,1,2,5,6,1
+Aymen Sliti,NED,"FW,MF",Feyenoord,19-274,2006.0,3.2,2,0,1,1,0,0,5,0.0,5,3,0,3,0,2,4,0
+Jaden Slory,NED,FW,Feyenoord,20-228,2005.0,2.0,5,4,2,1,2,3,5,60.0,2,3,0,3,3,8,2,0
+Gijs Smal,NED,DF,Feyenoord,28-114,1997.0,7.9,16,13,7,6,3,11,13,84.6,2,5,4,1,9,25,21,0
+Levi Smans,NED,MF,Heerenveen,21-273,2004.0,0.6,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+Kees Smit,NED,MF,AZ Alkmaar,19-337,2006.0,14.5,17,11,7,5,5,12,23,52.2,11,13,3,10,8,25,10,2
+Milan Smit,NED,FW,Go Ahead Eag,22-313,2003.0,13.3,2,1,0,2,0,0,6,0.0,6,9,6,3,1,3,12,0
+Moussa Soumano,FRA,"FW,MF",NAC Breda,20-167,2005.0,1.0,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+Kamal Sowah,GHA,"FW,MF",NAC Breda,25-348,2000.0,16.6,30,16,12,12,6,10,21,47.6,11,18,1,17,15,45,14,0
+Casper Staring,NED,MF,NAC Breda,24-325,2001.0,0.2,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,1,0
+Sem Steijn,NED,MF,Feyenoord,24-036,2001.0,9.5,6,3,1,5,0,2,11,18.2,9,4,0,4,1,7,5,0
+Sean Steur,NED,MF,Ajax,17-346,2008.0,1.4,4,3,2,0,2,3,4,75.0,1,3,0,3,1,5,1,0
+Finn Stokkers,NED,"FW,MF",Go Ahead Eag,29-249,1996.0,1.8,0,0,0,0,0,0,0,,0,3,0,3,0,0,1,0
+Mathis Suray,BEL,FW,Go Ahead Eag,24-150,2001.0,14.8,14,13,7,6,1,5,19,26.3,14,12,6,6,7,21,12,1
+Josip Šutalo,CRO,DF,Ajax,25-298,2000.0,6.9,5,3,2,3,0,3,5,60.0,2,6,4,2,15,20,37,1
+Juho Talvitie,FIN,"FW,DF",NAC Breda,20-278,2005.0,12.1,20,11,8,7,5,10,22,45.5,12,6,1,5,7,27,16,1
+Oussama Targhalline,MAR,MF,Feyenoord,23-217,2002.0,9.6,33,20,11,15,7,13,19,68.4,6,10,2,8,17,50,15,1
+Kenneth Taylor,NED,MF,Ajax,23-221,2002.0,14.2,16,10,5,10,1,9,16,56.3,7,7,2,5,16,32,6,0
+Mike te Wierik,NED,DF,Heracles Almelo,33-198,1992.0,7.9,19,14,9,8,2,8,10,80.0,2,7,3,4,8,27,27,0
+Kay Tejan,NED,"FW,MF",Telstar,28-323,1997.0,5.6,5,4,2,2,1,0,6,0.0,6,2,1,1,2,7,8,0
+Casper Tengstedt,DEN,"FW,MF",Feyenoord,25-205,2000.0,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Ryan Thomas,NZL,MF,Zwolle,31-003,1994.0,14.0,31,19,17,12,2,10,26,38.5,16,32,8,24,33,64,66,3
+Mathijs Tielemans,NED,MF,Excelsior,23-241,2002.0,1.5,1,0,0,0,1,0,1,0.0,1,3,0,3,2,3,3,0
+Jop Tijink,NED,DF,Heracles Almelo,20-327,2005.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Guus Til,NED,"FW,MF",PSV Eindhoven,28-001,1997.0,13.9,17,6,4,8,5,7,11,63.6,4,11,1,10,0,17,18,0
+Quinten Timber,NED,MF,Feyenoord,24-189,2001.0,13.4,32,15,10,20,2,11,17,64.7,6,19,4,15,16,48,14,1
+Jens Toornstra,NED,MF,Sparta R'dam,36-263,1989.0,8.3,19,11,7,8,4,11,25,44.0,14,12,3,9,8,27,23,1
+Bertrand Traoré,BFA,FW,Ajax,30-108,1995.0,0.7,2,2,1,0,1,1,1,100.0,0,0,0,0,1,3,0,0
+Jacob Trenskow,DEN,"FW,MF",Heerenveen,25-027,2000.0,15.2,6,5,2,1,3,2,5,40.0,3,13,2,11,7,13,16,0
+Luka Tunjić,CRO,"MF,FW",Fortuna Sittard,20-034,2005.0,3.1,13,6,5,6,2,6,15,40.0,9,3,1,2,1,14,5,0
+Calvin Twigt,NED,MF,Go Ahead Eag,22-327,2003.0,5.5,11,6,4,6,1,3,8,37.5,5,6,5,1,7,18,16,0
+Ayase Ueda,JPN,FW,Feyenoord,27-104,1998.0,15.5,6,4,1,2,3,1,3,33.3,2,4,1,3,2,8,17,0
+Precious Ugwu,NED,DF,Volendam,19-318,2006.0,7.4,16,12,12,4,0,12,22,54.5,10,6,2,4,2,18,28,0
+Lars Unnerstall,GER,GK,Twente,35-156,1990.0,17.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0
+Naci Ünüvar,NED,"FW,MF",Twente,22-193,2003.0,2.1,3,1,2,1,0,1,3,33.3,2,2,0,2,0,3,1,0
+Etienne Vaessen,SUR,GK,Groningen,30-150,1995.0,14.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,12,0
+Luciano Valente,NED,MF,Feyenoord,22-080,2003.0,13.9,21,9,10,9,2,8,24,33.3,16,11,2,9,14,35,9,1
+Cherrion Valerius,CUW,DF,NAC Breda,20-092,2005.0,11.0,24,12,12,12,0,19,26,73.1,7,11,3,8,13,37,45,0
+Amourrichio Van Axel Dongen,NED,"FW,MF",Heerenveen,21-085,2004.0,0.6,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,0,0
+Dave Van Den Berg,NED,"MF,FW",Utrecht,25-322,2000.0,1.6,3,1,2,1,0,2,3,66.7,1,2,0,2,2,5,2,0
+Alec Van Hoorenbeeck,BEL,DF,Heracles Almelo,26-358,1998.0,12.0,10,7,9,1,0,8,14,57.1,6,19,11,8,15,25,100,0
+Jaygo Chubasco Van Ommeren,NED,MF,Utrecht,17-229,2008.0,0.5,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0
+Syb Van Ottele,NED,DF,Fortuna Sittard,23-324,2002.0,2.6,6,4,2,4,0,1,2,50.0,1,3,2,1,1,7,7,2
+Shaqueel Van Persie,NED,FW,Feyenoord,19-037,2006.0,0.1,1,1,1,0,0,0,0,,0,0,0,0,0,1,2,0
+Henk Veerman,NED,FW,Volendam,32-176,1993.0,16.1,4,3,0,2,2,2,3,66.7,1,5,1,4,1,5,23,0
+Joey Veerman,NED,MF,PSV Eindhoven,27-034,1998.0,14.6,31,19,13,12,6,19,37,51.4,18,23,4,19,17,48,39,1
+Tijs Velthuis,NED,DF,Sparta R'dam,23-345,2002.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Dylan Vente,NED,"FW,MF",Heerenveen,26-228,1999.0,15.1,11,6,3,6,2,2,6,33.3,4,7,0,7,3,14,29,0
+Calvin Verdonk,IDN,DF,NEC Nijmegen,28-241,1997.0,4.0,14,9,6,4,4,9,13,69.2,4,5,1,4,4,18,12,0
+Arno Verschueren,BEL,MF,Twente,28-259,1997.0,4.0,8,4,1,6,1,2,5,40.0,3,7,1,6,4,12,10,0
+Nick Verschuren,NED,DF,Volendam,20-344,2005.0,13.8,11,8,10,1,0,6,11,54.5,5,34,30,4,13,24,76,0
+Dion Versluis,NED,"FW,MF",NAC Breda,22-309,2003.0,0.3,1,1,1,0,0,0,0,,0,0,0,0,0,1,2,0
+Niklas Vesterlund,DEN,"DF,FW",Utrecht,26-200,1999.0,1.8,2,2,1,0,1,1,2,50.0,1,1,0,1,0,2,4,0
+Nick Viergever,NED,DF,Utrecht,36-142,1989.0,13.7,15,10,6,8,1,8,10,80.0,2,21,14,7,15,30,66,0
+David Voute,NED,DF,Zwolle,20-049,2005.0,1.0,1,1,1,0,0,1,2,50.0,1,0,0,0,3,4,7,1
+Paul Wanner,GER,"MF,FW",PSV Eindhoven,20-000,2005.0,4.0,15,10,7,4,4,9,10,90.0,1,6,0,6,1,16,2,0
+Tsuyoshi Watanabe,JPN,DF,Feyenoord,28-321,1997.0,16.0,20,14,10,8,2,11,17,64.7,6,23,16,7,15,35,74,0
+Wout Weghorst,NED,FW,Ajax,33-138,1992.0,12.3,7,2,1,4,2,3,4,75.0,1,8,2,6,1,8,12,0
+Daouda Weidmann,CIV,MF,Twente,22-233,2003.0,1.9,4,4,2,1,1,3,4,75.0,1,3,1,2,4,8,2,0
+Robbin Weijenberg,NED,"DF,FW",Go Ahead Eag,21-045,2004.0,0.5,1,0,0,1,0,0,1,0.0,1,2,0,2,0,1,1,0
+Timon Wellenreuther,GER,GK,Feyenoord,30-020,1995.0,17.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,10,1
+Casper Widell,SWE,DF,Excelsior,22-232,2003.0,15.9,19,14,16,0,3,8,16,50.0,8,24,14,10,10,29,107,1
+Jannes Wieckhoff,GER,DF,Heracles Almelo,25-143,2000.0,4.2,9,5,7,2,0,5,11,45.5,6,3,0,3,7,16,16,1
+Owen Wijndal,NED,DF,Ajax,26-025,1999.0,10.5,16,12,6,8,2,9,13,69.2,4,3,2,1,11,27,25,1
+Jetro Willems,NED,DF,NEC Nijmegen,31-268,1994.0,0.5,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0
+Maas Willemsen,NED,DF,Heerenveen,22-238,2003.0,11.9,13,8,9,4,0,4,8,50.0,4,8,7,1,9,22,52,1
+Dani de Wit,NED,"MF,FW",Utrecht,27-329,1998.0,8.5,17,10,4,11,2,7,12,58.3,5,7,2,5,5,22,16,0
+Mees de Wit,NED,DF,AZ Alkmaar,27-250,1998.0,13.5,33,13,20,11,2,19,32,59.4,13,19,6,13,9,42,45,0
+Ricky van Wolfswinkel,NED,FW,Twente,36-330,1989.0,14.1,18,13,4,8,6,10,19,52.6,9,8,2,6,6,24,13,0
+Key Wong-A-Soijj,NED,FW,Volendam,19-083,2006.0,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Szymon Włodarczyk,POL,FW,Excelsior,22-352,2003.0,6.9,2,1,0,0,2,1,9,11.1,8,8,2,6,0,2,7,0
+Gibson Yah,NED,MF,Volendam,22-087,2003.0,12.7,50,31,28,21,1,34,44,77.3,10,31,16,15,23,73,50,1
+Irakli Yegoian,GEO,MF,Excelsior,21-279,2004.0,12.7,20,12,13,7,0,10,19,52.6,9,20,8,12,12,32,17,1
+Marvin Young,NED,DF,Sparta R'dam,20-082,2005.0,17.0,30,19,16,13,1,12,16,75.0,4,24,11,13,23,53,133,2
+Vasilios Zagaritis,GRE,DF,Heerenveen,24-233,2001.0,16.6,36,22,16,15,5,15,21,71.4,6,17,5,12,32,68,57,0
+Arthur Zagre,FRA,DF,Excelsior,24-080,2001.0,11.9,30,19,19,10,1,13,19,68.4,6,24,8,16,16,46,38,0
+Jan Žambůrek,CZE,MF,Heracles Almelo,24-313,2001.0,11.3,23,15,10,9,4,9,22,40.9,13,7,3,4,20,43,30,0
+Oskar Zawada,POL,"FW,MF",Groningen,29-325,1996.0,1.7,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0
+Gjivai Zechiël,NED,MF,Utrecht,21-205,2004.0,15.5,24,11,10,14,0,9,20,45.0,11,12,4,8,19,43,21,0
+Lequincio Zeefuik,NED,"FW,MF",AZ Alkmaar,21-027,2004.0,1.3,1,0,0,0,1,0,0,,0,0,0,0,0,1,7,0
+Ramiz Zerrouki,ALG,MF,Twente,27-211,1998.0,15.3,35,20,8,21,6,17,27,63.0,10,12,4,8,17,52,44,0
+Jeroen Zoet,NED,GK,AZ Alkmaar,34-351,1991.0,2.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,2
+Milan Zonneveld,NED,FW,Telstar,22-076,2003.0,6.3,1,1,0,0,1,0,2,0.0,2,4,2,2,0,1,8,0
+Giovanni van Zwam,NED,DF,Go Ahead Eag,21-355,2004.0,3.1,3,2,1,2,0,1,2,50.0,1,2,2,0,0,3,16,1
+Sondre Ørjasæter,NOR,FW,Twente,22-025,2003.0,10.3,10,5,7,2,1,6,11,54.5,5,11,2,9,3,13,2,0
+Nökkvi Þórisson,ISL,"FW,MF",Sparta R'dam,26-132,1999.0,0.7,2,1,1,0,1,0,0,,0,1,0,1,0,2,2,0
